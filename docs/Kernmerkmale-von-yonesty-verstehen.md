@@ -1,3 +1,5 @@
+# Testrico
+
 yonesty besteht aus mehreren Ebenen von Merkmalen. Einige davon sind grundlegende Funktionen, die Nutzer erwarten. Andere schaffen den eigentlichen Mehrwert im Alltag, weil sie Informationen miteinander verbinden. Besonders stark wird yonesty dort, wo diese verknüpften Organisationsdaten mit YONA als KI-Unterstützung nutzbar werden.
 
 # Basismerkmale: Die gemeinsame Datengrundlage
