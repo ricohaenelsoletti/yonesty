@@ -6,7 +6,7 @@ theme:
   favicon: assets/favicon.ico
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/yonesty.css
 
 nav:
   - Startseite: index.md
