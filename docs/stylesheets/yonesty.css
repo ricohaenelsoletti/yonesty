@@ -1,0 +1,148 @@
+/* ===========================================================
+   YONESTY DESIGN SYSTEM
+   docs/stylesheets/yonesty.css
+   =========================================================== */
+
+
+/* -----------------------------------------------------------
+   FARBEN
+   ----------------------------------------------------------- */
+
+/* Akzentfarbe (Links, Buttons, aktive Navigation) */
+:root {
+    --md-accent-fg-color: #B814A0;
+}
+
+/* Primärfarbe (Header, Navigation oben)
+   Optional später durch yonesty Grün ersetzen */
+:root {
+    --md-primary-fg-color: #3eb814;
+}
+
+
+/* -----------------------------------------------------------
+   TEXTE
+   ----------------------------------------------------------- */
+
+/* Grundschriftgröße der Inhalte
+   Standard Material wirkt oft etwas groß */
+.md-typeset {
+    font-size: 0.80rem;
+}
+
+/* Textfarbe Fließtext */
+.md-typeset {
+    color: #333333;
+}
+
+/* Zeilenabstand Fließtext */
+.md-typeset p {
+    line-height: 1.55;
+}
+
+
+/* -----------------------------------------------------------
+   ÜBERSCHRIFTEN
+   ----------------------------------------------------------- */
+
+/* Hauptüberschrift H1 */
+.md-typeset h1 {
+    font-size: 1.9rem;
+    font-weight: 600;
+    color: #222222;
+}
+
+/* Abschnittsüberschrift H2 */
+.md-typeset h2 {
+    font-size: 1.45rem;
+    font-weight: 600;
+    color: #222222;
+}
+
+/* Unterüberschrift H3 */
+.md-typeset h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #333333;
+}
+
+
+/* -----------------------------------------------------------
+   LINKS
+   ----------------------------------------------------------- */
+
+/* Normale Links */
+.md-typeset a {
+    color: #B814A0;
+}
+
+/* Hover-Effekt */
+.md-typeset a:hover {
+    color: #8f0f7d;
+}
+
+
+/* -----------------------------------------------------------
+   NAVIGATION LINKS
+   ----------------------------------------------------------- */
+
+/* Linke Navigation kleiner */
+.md-nav {
+    font-size: 0.84rem;
+}
+
+/* Aktive Seite */
+.md-nav__link--active {
+    color: #B814A0 !important;
+    font-weight: 600;
+}
+
+
+/* -----------------------------------------------------------
+   SIDEBAR
+   ----------------------------------------------------------- */
+
+/* Sidebar kompakter */
+.md-sidebar {
+    font-size: 0.84rem;
+}
+
+
+/* -----------------------------------------------------------
+   TABELLEN
+   ----------------------------------------------------------- */
+
+/* Tabellen kompakter */
+.md-typeset table {
+    font-size: 0.84rem;
+}
+
+
+/* -----------------------------------------------------------
+   CODEBLÖCKE
+   ----------------------------------------------------------- */
+
+/* Schriftgröße in Codeblöcken */
+.md-typeset code {
+    font-size: 0.80rem;
+}
+
+
+/* -----------------------------------------------------------
+   SUCHFELD
+   ----------------------------------------------------------- */
+
+/* Suchfeld etwas kleiner */
+.md-search__input {
+    font-size: 0.85rem;
+}
+
+
+/* -----------------------------------------------------------
+   BILDER
+   ----------------------------------------------------------- */
+
+/* Bilder mit leicht abgerundeten Ecken */
+.md-typeset img {
+    border-radius: 6px;
+}
