@@ -1,1 +1,34 @@
-#hurz
+site_name: yonesty Dokumentation
+
+theme:
+  name: material
+
+nav:
+  - Startseite: index.md
+
+  - Erste Schritte:
+      - Typische Startpfade: Getting-Started-Typische-Startpfade.md
+      - Rolle und Use Cases: Starte-mit-deiner-Rolle-und-typischen-Use-Cases.md
+
+  - Grundlagen:
+      - Wichtige Begriffe: Wichtige-Begriffe.md
+      - Kernmerkmale: Kernmerkmale-von-yonesty-verstehen.md
+      - Rollenüberblick: Überblick-Welche-Rolle-übernimmt-welche-Aufgaben.md
+
+  - Themenbereiche:
+      - Rollen: Themenbereich-Rollen.md
+      - Ziele: Themenbereich-Ziele.md
+      - Prozesse: Themenbereich-Prozesse.md
+      - Feedback: Themenbereich-Feedback.md
+      - Fähigkeiten, Erwartungen und Gefühle: Themenbereich-Fähigkeiten-Erwartungen-und-Gefuehle.md
+
+  - Zusammenarbeit:
+      - Aktivitäten: Aktivitäten-Your-Next-Steps.md
+      - RACI und Matrizen: RACI-und-Matrizen.md
+      - Suche, Filtern, Teilen, Export: Suche-Filtern-Teilen-Export.md
+
+  - Assistent:
+      - Yona: Yona.md
+
+  - Demo:
+      - Hammer & Nagel GmbH: demo-hammer-und-nagel-gmbh.md
