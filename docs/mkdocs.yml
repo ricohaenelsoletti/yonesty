@@ -1,0 +1,9 @@
+site_name: yonesty Dokumentation
+
+nav:
+  - Home: index.md
+  - Benutzer: benutzer.md
+  - Führungskräfte: fuehrungskraefte.md
+  - Administratoren: administratoren.md
+  - Organisationsdesigner: organisationsdesigner.md
+  - FAQ: faq.md
