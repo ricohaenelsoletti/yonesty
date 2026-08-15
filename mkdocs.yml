@@ -37,3 +37,8 @@ nav:
 
   - Demo:
       - Hammer & Nagel GmbH: demo-hammer-und-nagel-gmbh.md
+
+copyright: >
+  © 2026 yonesty
+extra:
+  generator: false
