@@ -48,6 +48,27 @@
   margin-top: 0;
 }
 
+/* -----------------------------------------------------------
+   AUFZÄHLUNGEN WIE IM GITHUB WIKI
+   ----------------------------------------------------------- */
+
+.md-typeset ul {
+
+  /* Klassische Bullet Points */
+  list-style-type: disc;
+
+  /* Einrückung */
+  padding-left: 1.5rem;
+}
+
+.md-typeset li {
+
+  /* Kompakter Zeilenabstand */
+  line-height: 1.45;
+
+  /* Abstand zwischen Punkten */
+  margin-bottom: 0.15rem;
+}
 
 /* -----------------------------------------------------------
    NAVIGATION
