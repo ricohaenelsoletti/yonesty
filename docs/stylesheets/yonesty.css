@@ -20,6 +20,21 @@
   line-height: 1.45;
 }
 
+/* -----------------------------------------------------------
+   H1 mit yonesty Akzentlinie
+   ----------------------------------------------------------- */
+
+.md-typeset h1 {
+
+  /* Abstand unter der Überschrift */
+  padding-bottom: 0.4rem;
+
+  /* horizontale Linie */
+  border-bottom: 2px solid #B814A0;
+
+  /* Abstand zum Inhalt */
+  margin-bottom: 1rem;
+}
 
 /* -----------------------------------------------------------
    NAVIGATION
