@@ -21,20 +21,33 @@
 }
 
 /* -----------------------------------------------------------
-   H1 mit yonesty Akzentlinie
+   H1 wie im GitHub Wiki
    ----------------------------------------------------------- */
 
 .md-typeset h1 {
 
-  /* Abstand unter der Überschrift */
-  padding-bottom: 0.4rem;
+  /* Schriftfarbe */
+  color: #24292f;
 
-  /* horizontale Linie */
-  border-bottom: 2px solid #B814A0;
+  /* Schriftgröße */
+  font-size: 1.75rem;
 
-  /* Abstand zum Inhalt */
+  /* Schriftstärke */
+  font-weight: 600;
+
+  /* Abstand zwischen Text und Linie */
+  padding-bottom: 0.3rem;
+
+  /* Graue Linie unter der Überschrift */
+  border-bottom: 1px solid #d0d7de;
+
+  /* Abstand zum folgenden Text */
   margin-bottom: 1rem;
+
+  /* Abstand nach oben */
+  margin-top: 0;
 }
+
 
 /* -----------------------------------------------------------
    NAVIGATION
