@@ -33,14 +33,14 @@ Die Leistungsmerkmale von yonesty entstehen dort, wo die einzelnen Informationen
 
 Der besondere Nutzen entsteht also nicht durch ein einzelnes Feld oder eine einzelne Liste, sondern durch den Zusammenhang. Ein Prozess ist nicht nur ein Prozess. Er zeigt, welche Rolle beteiligt ist, welches Ziel damit verbunden sein kann, welche Fähigkeiten gebraucht werden und welche Aktivitäten daraus entstehen können. Genau diese Verknüpfungen machen yonesty im Alltag wirkungsvoll.
 
-# Begeisterungsmerkmale: YONA und intelligente Orientierung
-Die Begeisterungsmerkmale von yonesty entstehen dort, wo gut gepflegte und sinnvoll verknüpfte Organisationsdaten mit YONA nutzbar werden. YONA hilft den jeweiligen Rollen, Informationen schneller zu verstehen, Zusammenhänge zu erkennen, bessere Fragen zu stellen und nächste Schritte vorzubereiten.
+# Begeisterungsmerkmale: Yona und intelligente Orientierung
+Die Begeisterungsmerkmale von yonesty entstehen dort, wo gut gepflegte und sinnvoll verknüpfte Organisationsdaten mit Yona nutzbar werden. Yona hilft den jeweiligen Rollen, Informationen schneller zu verstehen, Zusammenhänge zu erkennen, bessere Fragen zu stellen und nächste Schritte vorzubereiten.
 
 Beispiele: 
-* Anwender können YONA fragen, was eine Rolle oder Aktivität für sie bedeutet. 
+* Anwender können Yona fragen, was eine Rolle oder Aktivität für sie bedeutet. 
 * Teamleiter können Feedbackfragen vorbereiten oder Aktivitäten klarer formulieren. 
-* Verantwortliche für Ziele können YONA nutzen, um Zielzusammenhänge und offene Handlungsfelder besser zu verstehen. 
+* Verantwortliche für Ziele können Yona nutzen, um Zielzusammenhänge und offene Handlungsfelder besser zu verstehen. 
 * Prozessverantwortliche können Prozessbeschreibungen verbessern oder Lücken in der Prozesslandschaft erkennen. Administratoren können Hinweise auf Datenqualität, Struktur und Berechtigungen besser einordnen.
 
-Wichtig ist: YONA wird umso wertvoller, je aktueller, vollständiger und besser verknüpft die Daten in yonesty sind. Gute Rollen, klare Prozesse, verständliche Ziele, gepflegte Fähigkeiten, strukturierte Feedbacks und konkrete Aktivitäten sind die Grundlage dafür, dass KI-Unterstützung nicht nur allgemein antwortet, sondern wirklich im Kontext der Organisation hilft.
+Wichtig ist: Yona wird umso wertvoller, je aktueller, vollständiger und besser verknüpft die Daten in yonesty sind. Gute Rollen, klare Prozesse, verständliche Ziele, gepflegte Fähigkeiten, strukturierte Feedbacks und konkrete Aktivitäten sind die Grundlage dafür, dass KI-Unterstützung nicht nur allgemein antwortet, sondern wirklich im Kontext der Organisation hilft.
 
