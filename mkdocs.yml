@@ -5,6 +5,9 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Startseite: index.md
 
