@@ -1,110 +1,38 @@
-/* ===========================================================
-   YONESTY DESIGN SYSTEM
-   docs/stylesheets/yonesty.css
-   =========================================================== */
-
-
 /* -----------------------------------------------------------
-   FARBEN
+   FLIESSTEXT
    ----------------------------------------------------------- */
 
-/* Akzentfarbe (Links, Buttons, aktive Navigation) */
-:root {
-    --md-accent-fg-color: #B814A0;
-}
-
-/* Primärfarbe (Header, Navigation oben)
-   Optional später durch yonesty Grün ersetzen */
-:root {
-    --md-primary-fg-color: #3eb814;
-}
-
-
-/* -----------------------------------------------------------
-   TEXTE
-   ----------------------------------------------------------- */
-
-/* Grundschriftgröße der Inhalte
-   Standard Material wirkt oft etwas groß */
+/* Grundschriftgröße der gesamten Dokumentation
+   GitHub-Wiki-ähnlich kompakt */
 .md-typeset {
-    font-size: 0.80rem;
+  font-size: 0.80rem;
+  color: #333333;
 }
 
-/* Textfarbe Fließtext */
-.md-typeset {
-    color: #333333;
-}
-
-/* Zeilenabstand Fließtext */
+/* Zeilenabstand Fließtext
+   Etwas kompakter als Material Standard */
 .md-typeset p {
-    line-height: 1.55;
+  line-height: 1.45;
+}
+
+/* Listen */
+.md-typeset li {
+  line-height: 1.45;
 }
 
 
 /* -----------------------------------------------------------
-   ÜBERSCHRIFTEN
+   NAVIGATION
    ----------------------------------------------------------- */
 
-/* Hauptüberschrift H1 */
-.md-typeset h1 {
-    font-size: 1.9rem;
-    font-weight: 600;
-    color: #222222;
-}
-
-/* Abschnittsüberschrift H2 */
-.md-typeset h2 {
-    font-size: 1.45rem;
-    font-weight: 600;
-    color: #222222;
-}
-
-/* Unterüberschrift H3 */
-.md-typeset h3 {
-    font-size: 1.15rem;
-    font-weight: 600;
-    color: #333333;
-}
-
-
-/* -----------------------------------------------------------
-   LINKS
-   ----------------------------------------------------------- */
-
-/* Normale Links */
-.md-typeset a {
-    color: #B814A0;
-}
-
-/* Hover-Effekt */
-.md-typeset a:hover {
-    color: #8f0f7d;
-}
-
-
-/* -----------------------------------------------------------
-   NAVIGATION LINKS
-   ----------------------------------------------------------- */
-
-/* Linke Navigation kleiner */
+/* Sidebar-Schrift */
 .md-nav {
-    font-size: 0.84rem;
+  font-size: 0.80rem;
 }
 
-/* Aktive Seite */
-.md-nav__link--active {
-    color: #B814A0 !important;
-    font-weight: 600;
-}
-
-
-/* -----------------------------------------------------------
-   SIDEBAR
-   ----------------------------------------------------------- */
-
-/* Sidebar kompakter */
+/* Linke Sidebar */
 .md-sidebar {
-    font-size: 0.84rem;
+  font-size: 0.80rem;
 }
 
 
@@ -112,19 +40,8 @@
    TABELLEN
    ----------------------------------------------------------- */
 
-/* Tabellen kompakter */
 .md-typeset table {
-    font-size: 0.84rem;
-}
-
-
-/* -----------------------------------------------------------
-   CODEBLÖCKE
-   ----------------------------------------------------------- */
-
-/* Schriftgröße in Codeblöcken */
-.md-typeset code {
-    font-size: 0.80rem;
+  font-size: 0.80rem;
 }
 
 
@@ -132,17 +49,15 @@
    SUCHFELD
    ----------------------------------------------------------- */
 
-/* Suchfeld etwas kleiner */
 .md-search__input {
-    font-size: 0.85rem;
+  font-size: 0.80rem;
 }
 
 
 /* -----------------------------------------------------------
-   BILDER
+   CODEBLÖCKE
    ----------------------------------------------------------- */
 
-/* Bilder mit leicht abgerundeten Ecken */
-.md-typeset img {
-    border-radius: 6px;
+.md-typeset code {
+  font-size: 0.78rem;
 }
