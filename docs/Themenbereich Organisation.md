@@ -94,7 +94,7 @@ hohe Qualität, Zuverlässigkeit und innovative Produkte zu
 unterstützen.
 
 <figure markdown="span">
-    <img src="screenshots/yonesty-Organisation-Informationen.png">
+    <img src="/screenshots/yonesty-Organisation-Informationen.png">
     <figcaption>Die Hammer und Nagel GmbH Organsationseinrichtung</figcaption>
 </figure>
 
