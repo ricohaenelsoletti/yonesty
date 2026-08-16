@@ -91,7 +91,7 @@ Diese Personen benötigen Zugriff auf die von ihnen verantworteten Objekte.
     <figcaption>yonesty Berechtigungen und Möglichkeiten für Rechte und Datenschutz</figcaption>
 </figure>
 
-## Berechtigungen und Yona
+## Yona - unser KI Assistent
 
 Yona berücksichtigt immer die vorhandenen Berechtigungen.
 
@@ -105,154 +105,8 @@ Beispiel:
 
 > Welche Ziele sind aktuell gefährdet?
 
-### CEO
-
-Der CEO sieht alle relevanten Unternehmensziele.
-
-### Teamleiter
-
-Der Teamleiter sieht die Ziele seines Teams.
-
-### Mitarbeiter
-
-Der Mitarbeiter sieht nur die für ihn freigegebenen Ziele.
+* Der CEO sieht alle relevanten Unternehmensziele.
+* Der Teamleiter sieht die Ziele seines Teams.
+* Der Mitarbeiter sieht nur die für ihn freigegebenen Ziele.
 
 Yona zeigt niemals Informationen an, auf die eine Person keinen Zugriff besitzt.
-
-## Empfohlene Einrichtung
-
-### Beispiel 1: Kleine Organisation
-
-Bis ca. 50 Mitarbeitende
-
-| Rolle | Berechtigung |
-|---------|---------|
-| Geschäftsführung | Administrator |
-| Teamleiter | Teamleiter |
-| Mitarbeitende | Standardbenutzer |
-
-Diese Struktur reicht häufig bereits aus.
-
----
-
-### Beispiel 2: Mittelständisches Unternehmen
-
-100 bis 500 Mitarbeitende
-
-| Funktion | Berechtigung |
-|---------|---------|
-| CEO | Administrator |
-| COO | Administrator |
-| Leiter HR | Fachverantwortlicher |
-| Prozessmanager | Fachverantwortlicher |
-| Teamleiter | Teamleiter |
-| Mitarbeitende | Standardbenutzer |
-
-Dadurch können Fachbereiche ihre Daten selbst pflegen, ohne vollständige Administrationsrechte zu erhalten.
-
----
-
-### Beispiel 3: Organisation mit hoher Compliance
-
-Für Unternehmen mit erhöhten Anforderungen an Datenschutz oder Governance.
-
-| Funktion | Berechtigung |
-|---------|---------|
-| Systemadministrator | Administrator |
-| Head of Risk & Compliance | Fachverantwortlicher |
-| Legal Counsel | Fachverantwortlicher |
-| Teamleiter | Teamleiter |
-| Mitarbeitende | Standardbenutzer |
-
-Hier bleiben sensible Informationen bei den jeweils verantwortlichen Fachbereichen.
-
-## Empfehlungen aus der Praxis
-
-### Wenige Administratoren
-
-Administratoren sollten sparsam vergeben werden.
-
-Empfehlung:
-
-- CEO
-- COO
-- Systemadministrator
-
-Mehr Administratoren erhöhen die Komplexität und das Risiko unbeabsichtigter Änderungen.
-
-### Verantwortung an Fachbereiche delegieren
-
-Beispiele:
-
-- HR pflegt Personen und Feedbacks
-- Prozessmanagement pflegt Prozesse
-- Qualitätsmanagement pflegt Standards
-- Teamleiter pflegen Teamziele
-
-Dadurch bleiben die Informationen aktuell und fachlich korrekt.
-
-### Teams konsequent nutzen
-
-Berechtigungen sollten möglichst über Teams organisiert werden.
-
-Beispiel:
-
-```text
-Team Vertrieb
-→ Vertriebsziele
-→ Vertriebsprozesse
-→ Vertriebsaktivitäten
-
-Team Marketing
-→ Marketingziele
-→ Marketingprozesse
-→ Marketingaktivitäten
-```
-
-Das erleichtert die Pflege deutlich.
-
-## Typische Fehler
-
-### Zu viele Administratoren
-
-Häufig erhalten zu viele Personen Vollzugriff.
-
-Folgen:
-
-- fehlende Transparenz
-- inkonsistente Stammdaten
-- ungewollte Änderungen
-
-### Zu komplexe Berechtigungsstrukturen
-
-Zu viele Sonderfälle erschweren die Administration.
-
-Besser:
-
-- wenige Rollen
-- klare Verantwortlichkeiten
-- eindeutige Teamstrukturen
-
-### Keine Teamverantwortlichen
-
-Wenn Teams keine Besitzer und Teamleiter besitzen, bleiben Ziele, Prozesse und Aktivitäten häufig ungepflegt.
-
-## Empfehlung für den Start
-
-Für die meisten Organisationen ist folgende Struktur optimal:
-
-```text
-Administrator
-│
-├── Fachverantwortliche
-│   ├── HR
-│   ├── Prozesse
-│   ├── Compliance
-│   └── Qualität
-│
-├── Teamleiter
-│
-└── Mitarbeitende
-```
-
-Diese Struktur ist einfach, nachvollziehbar und unterstützt gleichzeitig die meisten Anwendungsfälle in yonesty.
