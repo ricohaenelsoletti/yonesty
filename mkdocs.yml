@@ -39,10 +39,17 @@ nav:
       - Feedback: Themenbereich-Feedback.md
       - Fähigkeiten, Erwartungen und Gefühle: Themenbereich-Fähigkeiten-Erwartungen-und-Gefuehle.md
       - Aktivitäten: Aktivitäten-Your-Next-Steps.md
-  
-  - Leistung:
-      - RACI und Matrizen: RACI-und-Matrizen.md
       - Suche, Filtern, Teilen, Export: Suche-Filtern-Teilen-Export.md
+  
+  - Leistungsmerkmale:
+      - Rollen mit Prozessen verbinden: Leistungsmerkmal-Rollen-mit-Prozessen-verbinden.md
+      - Prozesse mit Zielen verbinden: Leistungsmerkmal-Prozesse-mit-Zielen-verbinden.md
+      - Ziele mit Verantwortlichen verbinden: Leistungsmerkmal-Ziele-mit-Verantwortlichen-verbinden.md
+      - Fähigkeiten mit Rollen verbinden: Leistungsmerkmal-Faehigkeiten-mit-Rollen-verbinden.md
+      - Feedback mit Rollen, Zielen und Fähigkeiten verbinden: Leistungsmerkmal-Feedback-mit-Rollen-Zielen-und-Faehigkeiten-verbinden.md
+      - Aus Feedback Aktivitäten ableiten: Leistungsmerkmal-Aus-Feedback-Aktivitaeten-ableiten.md
+      - Aktivitäten mit Zielen und Entwicklung verbinden: Leistungsmerkmal-Aktivitaeten-mit-Zielen-und-Entwicklung-verbinden.md
+      - RACI und Matrizen nutzen: RACI-und-Matrizen.md      
 
   - Begeisterung mit KI:
       - Yona KI Assistent: Yona.md
