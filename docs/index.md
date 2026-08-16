@@ -5,10 +5,14 @@ Diese Dokumentation richtet sich an alle, die mit yonesty arbeiten: Mitarbeitend
 # Der yonesty-Kreislauf
 yonesty denkt Organisation nicht als starres Organigramm, sondern als lebendiges Zusammenspiel aus Prozessen, Rollen, Zielen, Fähigkeiten, Feedback und Aktivitäten. Prozesse zeigen, was in der Organisation getan wird. Rollen beschreiben, wer Verantwortung übernimmt. Ziele geben Orientierung. Fähigkeiten machen sichtbar, was Menschen und Teams brauchen. Feedback schafft Austausch. Aktivitäten machen Entwicklung konkret.
 
+<figure markdown="span"> <img src="screenshots/yonesty - Modell.png">
+<figcaption>Das yonesty Modell mit allen wichtigen Organisations-Elementen, die miteinander in Verbindung stehen.</figcaption>
+</figure>
+
+# Bereit zum Start?
 <figure markdown="span"> <img src="screenshots/yonesty-Anmeldung.png">
-<figcaption>Hurz</figcaption>
+<figcaption>yonesty Anmeldung mit Microsoft Login oder mit eigener Anmeldung (Benutzername und Passwort)</figcaption>
 </figure>
 
 
 
-[Screenshot einfügen: Startseite oder Dashboard der Hammer & Nagel GmbH. Bildunterschrift: Beispiel aus dem Demo-Unternehmen Hammer & Nagel GmbH: Startansicht mit zentralem Einstieg in Rollen, Ziele, Feedbacks, Aktivitäten und YONA.]
