@@ -1,10 +1,12 @@
+# Fähigkeiten, Erwartungen und Gefühle
+
 Fähigkeiten beschreiben, was Menschen für eine Rolle, Aufgabe oder Entwicklung benötigen. In yonesty können Fähigkeiten gepflegt, Rollen zugeordnet und mit Personen oder Aktivitäten verbunden werden. So entsteht ein gemeinsames Verständnis darüber, welche Kompetenzen bereits vorhanden sind und wo Entwicklung sinnvoll ist.
 
 Erwartungen helfen dabei, Anforderungen an Rollen klarer zu beschreiben. Gefühle oder Einschätzungen können ergänzend sichtbar machen, wie sicher, wohl oder entwickelt sich eine Person in einem bestimmten Zusammenhang erlebt. Dadurch wird Entwicklung nicht nur fachlich, sondern auch menschlich besprechbar.
 
 [Screenshot einfügen: Rollen-Fähigkeiten-Matrix oder Skill-Detailansicht der Hammer & Nagel GmbH. Bildunterschrift: Beispiel aus dem Demo-Unternehmen Hammer & Nagel GmbH: Fähigkeiten und Erwartungen im Zusammenhang mit Rollen und Entwicklung.]
 
-# Wie nutzen die jeweiligen Rollen das Thema Fähigkeiten, Erwartungen und Gefühle typischerweise?
+## Wie nutzen die jeweiligen Rollen das Thema Fähigkeiten, Erwartungen und Gefühle typischerweise?
 
 | Tätigkeit | Typisch zuständig | Beschreibung |
 |---|---|---|
@@ -15,7 +17,7 @@ Erwartungen helfen dabei, Anforderungen an Rollen klarer zu beschreiben. Gefühl
 
 Konkret bestehen Fähigkeiten aus Name, Beschreibung, Kategorie oder Schlagwort, Level-Logik, Zuordnung zu Rollen, Personen oder Aktivitäten sowie optionalen Erwartungen und Einschätzungen. Nutzer verwenden diese Informationen zur Orientierung. HR Manager und pflegende Rollen sorgen dafür, dass Fähigkeiten nicht zu allgemein, Erwartungen nicht zu unklar und Bewertungen nachvollziehbar bleiben.
 
-# Schritt-für-Schritt-Anleitung: Fähigkeiten, Erwartungen und Gefühle pflegen
+## Schritt-für-Schritt-Anleitung: Fähigkeiten, Erwartungen und Gefühle pflegen
 
 1. Öffne den Bereich Fähigkeiten oder Stammdaten.
 2. Lege eine neue Fähigkeit an oder öffne eine bestehende Fähigkeit.
@@ -26,6 +28,6 @@ Konkret bestehen Fähigkeiten aus Name, Beschreibung, Kategorie oder Schlagwort,
 7. Nutze Gefühle oder Einschätzungen, wenn persönliche Entwicklung, Sicherheit oder Befinden sichtbar gemacht werden sollen.
 8. Prüfe die Darstellung in der Rollen-Fähigkeiten-Matrix und speichere die Änderungen.
 
-# Endnutzer-Anleitung: Fähigkeiten, Erwartungen und Gefühle verstehen
+## Endnutzer-Anleitung: Fähigkeiten, Erwartungen und Gefühle verstehen
 
 Fähigkeiten zeigen dir, welche Kompetenzen für eine Rolle oder Entwicklung wichtig sind. Erwartungen beschreiben, was konkret gebraucht wird. Gefühle oder Einschätzungen helfen dabei, Entwicklung auch aus persönlicher Sicht zu betrachten. Nutze diese Informationen als Orientierung für Gespräche, Feedback und nächste Entwicklungsschritte.
