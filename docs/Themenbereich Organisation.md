@@ -93,7 +93,7 @@ in Deutschland und verfolgt das Ziel, seine Kunden durch
 hohe Qualität, Zuverlässigkeit und innovative Produkte zu
 unterstützen.
 
-<figure>
+<figure markdown="span">
     <img src="screenshots/yonesty - Organisation Informationen.png">
     <figcaption>Die Hammer und Nagel GmbH Organsationseinrichtung</figcaption>
 </figure>
@@ -104,13 +104,13 @@ Das Organisationslogo erscheint an verschiedenen Stellen innerhalb von yonesty.
 
 Dadurch erhält die Umgebung einen individuellen Charakter und eine bessere Wiedererkennung.
 
-<figure>
+<figure markdown="span">
     <img src="screenshots/yonesty - Organisation Branding.png">
     <figcaption>Die Hammer und Nagel GmbH Branding-Einstellungen für Farben und Logo</figcaption>
 </figure>
 
 ## Die Organisationsziele auf einem Blick
-<figure>
+<figure markdown="span">
     <img src="screenshots/yonesty - Organisation - Ziele.png">
     <figcaption>Die Hammer und Nagel GmbH Ziele zusammengefasst</figcaption>
 </figure>
@@ -119,14 +119,14 @@ Dadurch erhält die Umgebung einen individuellen Charakter und eine bessere Wied
 
 Mit der Microsoft Azure Integration können Sie alle Personeninformationen synchronisieren und Zugriffe sicher bspw. über MFA verwalten.
 
-<figure>
+<figure markdown="span">
     <img src="screenshots/yonesty - Organisation - Azure.png">
     <figcaption>Die Microsoft Integration für die Datensicherheit und sicheren Zugriff</figcaption>
 </figure>
 
 
 ## Die Aktivierung von Chatbot Yona für die Organisation
-<figure>
+<figure markdown="span">
     <img src="screenshots/yonesty - Organisation - Chatbot Yona.png">
     <figcaption>Die Hammer und Nagel GmbH KI Einrichtung für Anthrophic Claude per API Key</figcaption>
 </figure>
