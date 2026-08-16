@@ -87,7 +87,7 @@ Beispiele:
 Diese Personen benötigen Zugriff auf die von ihnen verantworteten Objekte.
 
 <figure>
-    <img src="screenshots/yonesty - Berechtigungen.png">
+    <img src="/screenshots/yonesty-Berechtigungen.png">
     <figcaption>yonesty Berechtigungen und Möglichkeiten für Rechte und Datenschutz</figcaption>
 </figure>
 
