@@ -11,7 +11,9 @@
 /* Akzentfarbe für Links und aktive Navigation */
 :root {
   --md-accent-fg-color: #B814A0;
+  --md-primary-fg-color: #FFFFFF;
 }
+
 
 
 /* -----------------------------------------------------------
