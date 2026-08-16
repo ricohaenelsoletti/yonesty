@@ -18,6 +18,16 @@ Hier informiert das yonesty-Team über:
 
 Dadurch bleiben Administratoren, Teamleiter und Mitarbeitende immer auf dem aktuellen Stand.
 
+<figure>
+    <img src="/screenshots/yonesty-News.png">
+    <figcaption>Regelmäßige News versorgen die Nutzer mit aktuellen Informationen</figcaption>
+</figure>
+
+<figure>
+    <img src="/screenshots/yonesty-News-Eintrag.png">
+    <figcaption>Ein Beispiel Eintrag mit Release Notes von yonesty selbst</figcaption>
+</figure>
+
 ## Organisatorische News
 
 Zusätzlich können organisationsinterne Informationen veröffentlicht werden.
