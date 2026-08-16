@@ -2,7 +2,8 @@ yonesty besteht aus mehreren Ebenen von Merkmalen. Einige davon sind grundlegend
 
 # Basismerkmale: Die gemeinsame Datengrundlage
 
-Basismerkmale sind die grundlegenden Informationen, die eine Organisation in yonesty pflegt. Dazu gehören 
+Basismerkmale sind die grundlegenden Informationen, die eine Organisation in yonesty pflegt. Dazu gehören
+
 * Rollen, 
 * Prozesse, Prozessgruppen und Prozesskategorien, 
 * Ziele, 
