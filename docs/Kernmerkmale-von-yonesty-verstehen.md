@@ -15,9 +15,10 @@ Basismerkmale sind die grundlegenden Informationen, die eine Organisation in yon
 * Feedbackgespräche und 
 * Aktivitäten. 
 
-<figure markdown="span"> <img src="screenshots/yonesty - Modell.png">
-<figcaption>Das yonesty Modell mit allen wichtigen Organisations-Elementen, die miteinander in Verbindung stehen.</figcaption>
+<figure markdown="span"> <img src="screenshots/yonesty - Systembausteine Organisation.png">
+<figcaption>Die Systembausteine einer Organisation für sich selbst. Das sind die Basics in yonesty. Wir gehen aber einen Schritt weiter und verknüpfen diese Bausteine miteinander.</figcaption>
 </figure>
+
 
 Diese Merkmale sind wichtig, weil sie Ordnung schaffen und Orientierung geben. Für sich allein betrachtet können solche Informationen jedoch auch in anderen Anwendungen vorkommen – zum Beispiel als Listen, Tabellen oder einzelne Module.
 
@@ -37,6 +38,10 @@ Die Leistungsmerkmale von yonesty entstehen dort, wo die einzelnen Informationen
 | Aus Feedback Aktivitäten ableiten | Aus einem Gespräch entsteht ein konkreter nächster Schritt. | Feedback bleibt nicht abstrakt, sondern führt zu sichtbarer Entwicklung und Umsetzung. |
 | Aktivitäten mit Zielen und Entwicklung verbinden | Eine Aktivität zahlt auf ein Ziel, eine Fähigkeit oder eine Rolle ein. | Mitarbeitende sehen, woran sie konkret arbeiten und warum dieser Schritt sinnvoll ist. |
 | RACI und Matrizen nutzen | Verantwortlichkeiten werden über Rollen, Prozesse, Personen und Fähigkeiten sichtbar. | Lücken, Doppelverantwortungen und Entwicklungsfelder lassen sich schneller erkennen. |
+
+<figure markdown="span"> <img src="screenshots/yonesty - Modell.png">
+<figcaption>Das yonesty Modell und alle Systembausteine einer Organisation stehen in enger Verbindung miteinander.</figcaption>
+</figure>
 
 Der besondere Nutzen entsteht also nicht durch ein einzelnes Feld oder eine einzelne Liste, sondern durch den Zusammenhang. Ein Prozess ist nicht nur ein Prozess. Er zeigt, welche Rolle beteiligt ist, welches Ziel damit verbunden sein kann, welche Fähigkeiten gebraucht werden und welche Aktivitäten daraus entstehen können. Genau diese Verknüpfungen machen yonesty im Alltag wirkungsvoll.
 
