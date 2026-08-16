@@ -15,7 +15,7 @@ Basismerkmale sind die grundlegenden Informationen, die eine Organisation in yon
 * Feedbackgespräche und 
 * Aktivitäten. 
 
-<figure markdown="span"><img src="screenshots/yonesty - Systembausteine Organisation.png">
+<figure markdown="span"><img src="/screenshots/yonesty-Systembausteine-Organisation.png">
 <figcaption>Die Systembausteine einer Organisation für sich selbst. Das sind die Basics in yonesty. Wir gehen aber einen Schritt weiter und verknüpfen diese Bausteine miteinander.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Die Leistungsmerkmale von yonesty entstehen dort, wo die einzelnen Informationen
 | Aktivitäten mit Zielen und Entwicklung verbinden | Eine Aktivität zahlt auf ein Ziel, eine Fähigkeit oder eine Rolle ein. | Mitarbeitende sehen, woran sie konkret arbeiten und warum dieser Schritt sinnvoll ist. |
 | RACI und Matrizen nutzen | Verantwortlichkeiten werden über Rollen, Prozesse, Personen und Fähigkeiten sichtbar. | Lücken, Doppelverantwortungen und Entwicklungsfelder lassen sich schneller erkennen. |
 
-<figure markdown="span"><img src="screenshots/yonesty - Modell.png">
+<figure markdown="span"><img src="/screenshots/yonesty-Modell.png">
 <figcaption>Das yonesty Modell und alle Systembausteine einer Organisation stehen in enger Verbindung miteinander.</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Beispiele:
 * Verantwortliche für Ziele können Yona nutzen, um Zielzusammenhänge und offene Handlungsfelder besser zu verstehen. 
 * Prozessverantwortliche können Prozessbeschreibungen verbessern oder Lücken in der Prozesslandschaft erkennen. Administratoren können Hinweise auf Datenqualität, Struktur und Berechtigungen besser einordnen.
 
-<figure markdown="span"><img src="screenshots/yonesty - Yona liefert Zusammenhänge.png">
+<figure markdown="span"><img src="/screenshots/yonesty-Yona-liefert-Zusammenhaenge.png">
 <figcaption>Yona liefert Zusammenhänge und transformiert einfache Daten zu zusammenhängenden Organisations-Wissen.</figcaption>
 </figure>
 
