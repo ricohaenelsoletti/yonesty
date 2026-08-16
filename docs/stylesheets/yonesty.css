@@ -216,7 +216,14 @@
    text-align: left;
 }
 
+.md-typeset figcaption {
 
+    text-align: left;
+    font-style: italic;
+    color: #57606a;
+    font-size: 0.65rem;
+    margin-top: 0.25rem;
+}
 /* -----------------------------------------------------------
    FOOTER
    ----------------------------------------------------------- */
