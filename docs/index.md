@@ -7,7 +7,7 @@ yonesty denkt Organisation nicht als starres Organigramm, sondern als lebendiges
 
 <figure markdown="span">
 
-screenshots/yonesty-Anmeldung.png
+/screenshots/yonesty-Anmeldung.png
 
 <figcaption>yonesty Anmeldung</figcaption>
 
