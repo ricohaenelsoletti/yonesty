@@ -170,7 +170,7 @@
 
 /* Aktiver Menüpunkt */
 .md-nav__link--active {
-  color: #B814A0 !important;
+  color: #B814A0;
   font-weight: 500;
 }
 
