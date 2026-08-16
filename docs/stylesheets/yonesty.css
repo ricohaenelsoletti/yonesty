@@ -21,7 +21,7 @@
 /* Grundschriftgröße der gesamten Dokumentation
    GitHub-Wiki-ähnlich sehr kompakt */
 .md-typeset {
-  font-size: 0.65rem;
+  font-size: 0.60rem;
   color: #333333;
 }
 
@@ -160,18 +160,18 @@
 
 /* Schriftgröße der Navigation */
 .md-nav {
-  font-size: 0.65rem;
+  font-size: 0.60rem;
 }
 
 /* Linke Sidebar */
 .md-sidebar {
-  font-size: 0.65rem;
+  font-size: 0.60rem;
 }
 
 /* Aktiver Menüpunkt */
 .md-nav__link--active {
   color: #B814A0 !important;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 
@@ -189,7 +189,7 @@
    ----------------------------------------------------------- */
 
 .md-search__input {
-  font-size: 0.80rem;
+  font-size: 0.60rem;
 }
 
 
