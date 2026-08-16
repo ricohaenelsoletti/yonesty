@@ -4,7 +4,20 @@ Fähigkeiten beschreiben, was Menschen für eine Rolle, Aufgabe oder Entwicklung
 
 Erwartungen helfen dabei, Anforderungen an Rollen klarer zu beschreiben. Gefühle oder Einschätzungen können ergänzend sichtbar machen, wie sicher, wohl oder entwickelt sich eine Person in einem bestimmten Zusammenhang erlebt. Dadurch wird Entwicklung nicht nur fachlich, sondern auch menschlich besprechbar.
 
-[Screenshot einfügen: Rollen-Fähigkeiten-Matrix oder Skill-Detailansicht der Hammer & Nagel GmbH. Bildunterschrift: Beispiel aus dem Demo-Unternehmen Hammer & Nagel GmbH: Fähigkeiten und Erwartungen im Zusammenhang mit Rollen und Entwicklung.]
+<figure>
+    <img src="/screenshots/yonesty-Faehigkeiten.png">
+    <figcaption>Die für Hammer und Nagel GmbH notwendigen Fähigkeiten im Überblick</figcaption>
+</figure>
+
+<figure>
+    <img src="/screenshots/yonesty-Erwartungen.png">
+    <figcaption>Die für Hammer und Nagel GmbH Erwartungen an das Ergebnis der Arbeit</figcaption>
+</figure>
+
+<figure>
+    <img src="/screenshots/yonesty-Gefuehle.png">
+    <figcaption>Immer belächelt und absolut unterschätzt: Auch die Gefühle (positive) sollten im Fokus der Gespräche stehen: Wie geht es Dir in der Rolle?</figcaption>
+</figure>
 
 ## Wie nutzen die jeweiligen Rollen das Thema Fähigkeiten, Erwartungen und Gefühle typischerweise?
 
