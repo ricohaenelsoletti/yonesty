@@ -50,6 +50,12 @@ Anschließend wählen Sie:
 - Ziele
 - Feedbackgespräche
 
+<figure>
+    <img src="screenshots/yonesty - Personen Beispiel.png">
+    <figcaption>Die Hammer und Nagel GmbH Personen und Mitarbeitenden</figcaption>
+</figure>
+
+
 ## Personen und Rollen
 
 Eine Person kann mehrere Rollen besitzen.
@@ -80,6 +86,12 @@ Ein Team kann beispielsweise sein:
 - Service
 
 Teams schaffen Transparenz über Zuständigkeiten und erleichtern die Zuordnung von Zielen, Rollen und Prozessen.
+
+<figure>
+    <img src="screenshots/yonesty - Team Management.png">
+    <figcaption>Die Hammer und Nagel GmbH Teams im Überblick</figcaption>
+</figure>
+
 
 ## Team anlegen
 
