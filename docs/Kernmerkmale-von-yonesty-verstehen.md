@@ -39,7 +39,8 @@ Der besondere Nutzen entsteht also nicht durch ein einzelnes Feld oder eine einz
 ## Begeisterungsmerkmale: Yona und intelligente Orientierung
 Die Begeisterungsmerkmale von yonesty entstehen dort, wo gut gepflegte und sinnvoll verknüpfte Organisationsdaten mit Yona nutzbar werden. Yona hilft den jeweiligen Rollen, Informationen schneller zu verstehen, Zusammenhänge zu erkennen, bessere Fragen zu stellen und nächste Schritte vorzubereiten.
 
-Beispiele: 
+Beispiele:
+
 * Anwender können Yona fragen, was eine Rolle oder Aktivität für sie bedeutet. 
 * Teamleiter können Feedbackfragen vorbereiten oder Aktivitäten klarer formulieren. 
 * Verantwortliche für Ziele können Yona nutzen, um Zielzusammenhänge und offene Handlungsfelder besser zu verstehen. 
