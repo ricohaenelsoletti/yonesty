@@ -53,7 +53,7 @@ Anschließend wählen Sie:
 - Feedbackgespräche
 
 <figure>
-    <img src="screenshots/yonesty - Personen Beispiel.png">
+    <img src="/screenshots/yonesty-Personen-Beispiel.png">
     <figcaption>Die Hammer und Nagel GmbH Personen und Mitarbeitenden</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Ein Team kann beispielsweise sein:
 
 Teams schaffen Transparenz über Zuständigkeiten und erleichtern die Zuordnung von Zielen, Rollen und Prozessen.
 <figure>
-    <img src="screenshots/yonesty - Team Management.png">
+    <img src="screenshots/yonesty-Team-Management.png">
     <figcaption>Team Verwaltung mit Rechten und Rollen</figcaption>
 </figure>
 # Team anlegen
@@ -132,7 +132,7 @@ Eine Person kann Mitglied mehrerer Teams sein.
 Dadurch lassen sich auch Matrixorganisationen oder Projektstrukturen einfach abbilden.
 
 <figure>
-    <img src="screenshots/yonesty - Team Verwaltung.png">
+    <img src="screenshots/yonesty-Team-Verwaltung.png">
     <figcaption>Team Verwaltung mit Rechten und Rollen</figcaption>
 </figure>
 
