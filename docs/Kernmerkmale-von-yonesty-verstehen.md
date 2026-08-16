@@ -1,6 +1,8 @@
+# Die Kernmerkmale von yonesty verstehen
+
 yonesty besteht aus mehreren Ebenen von Merkmalen. Einige davon sind grundlegende Funktionen, die Nutzer erwarten. Andere schaffen den eigentlichen Mehrwert im Alltag, weil sie Informationen miteinander verbinden. Besonders stark wird yonesty dort, wo diese verknüpften Organisationsdaten mit YONA als KI-Unterstützung nutzbar werden.
 
-# Basismerkmale: Die gemeinsame Datengrundlage
+## Basismerkmale: Die gemeinsame Datengrundlage
 
 Basismerkmale sind die grundlegenden Informationen, die eine Organisation in yonesty pflegt. Dazu gehören
 
@@ -17,7 +19,7 @@ Diese Merkmale sind wichtig, weil sie Ordnung schaffen und Orientierung geben. F
 
 In yonesty bilden diese Basismerkmale die gemeinsame Datengrundlage. Sie sorgen dafür, dass alle Beteiligten über dieselben Begriffe, Strukturen und Objekte sprechen. Entscheidend ist aber nicht nur, dass diese Daten vorhanden sind, sondern wie gut sie gepflegt, aktuell gehalten und miteinander verbunden werden.
 
-# Leistungsmerkmale: Der Nutzen entsteht durch Verknüpfung
+## Leistungsmerkmale: Der Nutzen entsteht durch Verknüpfung
 
 Die Leistungsmerkmale von yonesty entstehen dort, wo die einzelnen Informationen nicht isoliert bleiben, sondern sinnvoll miteinander verknüpft werden. Dadurch wird aus einer Sammlung von Daten ein lebendiges Organisationsmodell. Nutzer erkennen nicht nur, dass es Rollen, Prozesse oder Ziele gibt, sondern wie diese zusammenhängen und was daraus für die tägliche Arbeit folgt.
 
@@ -34,7 +36,7 @@ Die Leistungsmerkmale von yonesty entstehen dort, wo die einzelnen Informationen
 
 Der besondere Nutzen entsteht also nicht durch ein einzelnes Feld oder eine einzelne Liste, sondern durch den Zusammenhang. Ein Prozess ist nicht nur ein Prozess. Er zeigt, welche Rolle beteiligt ist, welches Ziel damit verbunden sein kann, welche Fähigkeiten gebraucht werden und welche Aktivitäten daraus entstehen können. Genau diese Verknüpfungen machen yonesty im Alltag wirkungsvoll.
 
-# Begeisterungsmerkmale: Yona und intelligente Orientierung
+## Begeisterungsmerkmale: Yona und intelligente Orientierung
 Die Begeisterungsmerkmale von yonesty entstehen dort, wo gut gepflegte und sinnvoll verknüpfte Organisationsdaten mit Yona nutzbar werden. Yona hilft den jeweiligen Rollen, Informationen schneller zu verstehen, Zusammenhänge zu erkennen, bessere Fragen zu stellen und nächste Schritte vorzubereiten.
 
 Beispiele: 
