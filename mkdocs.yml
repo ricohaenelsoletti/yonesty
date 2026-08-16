@@ -14,6 +14,7 @@ nav:
   - Erste Schritte:
       - Typische Startpfade: Getting-Started-Typische-Startpfade.md
       - Rolle und Use Cases: Starte-mit-deiner-Rolle-und-typischen-Use-Cases.md
+      - Demo Unternehmen Hammer & Nagel GmbH: demo-hammer-und-nagel-gmbh.md
 
   - Grundlagen:
       - Wichtige Begriffe: Wichtige-Begriffe.md
@@ -23,6 +24,7 @@ nav:
       - Personen und Teams: Themenbereich Personen und Teams.md
       - Berechtigungen: Themenbereich Berechtigungen.md
       - News: Themenbereich News.md
+      - Yona KI Assistent: Yona.md
 
   - Themenbereiche:
       - Rollen: Themenbereich-Rollen.md
@@ -30,17 +32,10 @@ nav:
       - Ziele: Themenbereich-Ziele.md
       - Feedback: Themenbereich-Feedback.md
       - Fähigkeiten, Erwartungen und Gefühle: Themenbereich-Fähigkeiten-Erwartungen-und-Gefuehle.md
-
-  - Zusammenarbeit:
       - Aktivitäten: Aktivitäten-Your-Next-Steps.md
       - RACI und Matrizen: RACI-und-Matrizen.md
       - Suche, Filtern, Teilen, Export: Suche-Filtern-Teilen-Export.md
 
-  - Assistent:
-      - Yona: Yona.md
-
-  - Demo:
-      - Hammer & Nagel GmbH: demo-hammer-und-nagel-gmbh.md
 
 copyright: >
   © 2026 yonesty
