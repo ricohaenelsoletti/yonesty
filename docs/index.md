@@ -13,8 +13,13 @@ screenshots/yonesty-Anmeldung.png
 
 </figure>
 
-# Test
+<figure markdown="span">
 
 screenshots/yonesty-Anmeldung.png
+
+<figcaption>yonesty Anmeldung TEST</figcaption>
+
+</figure>
+
 
 [Screenshot einfügen: Startseite oder Dashboard der Hammer & Nagel GmbH. Bildunterschrift: Beispiel aus dem Demo-Unternehmen Hammer & Nagel GmbH: Startansicht mit zentralem Einstieg in Rollen, Ziele, Feedbacks, Aktivitäten und YONA.]
