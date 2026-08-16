@@ -208,11 +208,11 @@
 
 /* Eckige Ecken */
 .md-typeset img {
+   display: block;
    border-radius: 0px;
    max-width: 800px;
    width: 90%;
    height: auto;
-   align: left;
    text-align: left;
 }
 
