@@ -24,29 +24,32 @@ nav:
       - Typische Startpfade: Getting-Started-Typische-Startpfade.md
       - Rolle und Use Cases: Starte-mit-deiner-Rolle-und-typischen-Use-Cases.md
       - Demo Unternehmen Hammer & Nagel GmbH: demo-hammer-und-nagel-gmbh.md
-
-  - Grundlagen:
-      - Wichtige Begriffe: Wichtige-Begriffe.md
       - Kernmerkmale: Kernmerkmale-von-yonesty-verstehen.md
       - Rollenüberblick: Überblick-Welche-Rolle-übernimmt-welche-Aufgaben.md
+
+  - Basics:
+      - Wichtige Begriffe: Wichtige-Begriffe.md
       - Organisation: Themenbereich Organisation.md
       - Personen und Teams: Themenbereich Personen und Teams.md
       - Berechtigungen: Themenbereich Berechtigungen.md
       - News: Themenbereich News.md
-      - Yona KI Assistent: Yona.md
-
-  - Themenbereiche:
       - Rollen: Themenbereich-Rollen.md
       - Prozesse: Themenbereich-Prozesse.md
       - Ziele: Themenbereich-Ziele.md
       - Feedback: Themenbereich-Feedback.md
       - Fähigkeiten, Erwartungen und Gefühle: Themenbereich-Fähigkeiten-Erwartungen-und-Gefuehle.md
       - Aktivitäten: Aktivitäten-Your-Next-Steps.md
+  
+  - Leistung:
       - RACI und Matrizen: RACI-und-Matrizen.md
       - Suche, Filtern, Teilen, Export: Suche-Filtern-Teilen-Export.md
 
+  - Begeisterung mit KI
+      - Yona KI Assistent: Yona.md
+  
+
 
 copyright: >
-  © 2026 yonesty
+  © 2026 yonesty powered by soletti
 extra:
   generator: false
