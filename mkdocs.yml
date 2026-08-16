@@ -21,10 +21,10 @@ nav:
   - Startseite: index.md
 
   - Erste Schritte:
+      - Kernmerkmale von yonesty: Kernmerkmale-von-yonesty-verstehen.md
       - Typische Startpfade: Getting-Started-Typische-Startpfade.md
-      - Rolle und Use Cases: Starte-mit-deiner-Rolle-und-typischen-Use-Cases.md
+      - Rollen und Use Cases verstehen: Starte-mit-deiner-Rolle-und-typischen-Use-Cases.md
       - Demo Unternehmen Hammer & Nagel GmbH: demo-hammer-und-nagel-gmbh.md
-      - Kernmerkmale: Kernmerkmale-von-yonesty-verstehen.md
       - Rollenüberblick: Überblick-Welche-Rolle-übernimmt-welche-Aufgaben.md
 
   - Basics:
