@@ -206,12 +206,14 @@
    BILDER
    ----------------------------------------------------------- */
 
-/* Leicht abgerundete Ecken */
+/* Eckige Ecken */
 .md-typeset img {
    border-radius: 0px;
    max-width: 600px;
    width: 750%;
    height: auto;
+   align: left;
+   text-align: left;
 }
 
 
