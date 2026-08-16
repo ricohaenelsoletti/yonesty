@@ -6,6 +6,21 @@ Alle weiteren Informationen wie Personen, Teams, Rollen, Prozesse, Ziele, Fähig
 
 Eine sorgfältige Einrichtung der Organisationsdaten schafft die Grundlage für aussagekräftige Auswertungen, eine konsistente Struktur und die optimale Unterstützung durch Yona.
 
+## Warum ist die Unternehmensbeschreibung wichtig?
+
+Die Unternehmensbeschreibung liefert den gemeinsamen Kontext für die gesamte Organisation.
+
+Insbesondere unser KI Chatbot Yona kann dadurch:
+
+- Antworten besser einordnen
+- Fachbegriffe verstehen
+- Rollen besser interpretieren
+- Ziele leichter bewerten
+- Prozesse besser erklären
+- organisationsspezifische Zusammenhänge erkennen
+
+Je aussagekräftiger die Unternehmensbeschreibung gepflegt wird, desto besser kann Yona die Organisation verstehen.
+
 ## Wer richtet die Organisation ein?
 
 Die Grundeinrichtung der Organisation erfolgt typischerweise durch:
@@ -15,7 +30,7 @@ Die Grundeinrichtung der Organisation erfolgt typischerweise durch:
 - Digital Transformation Manager
 - Projektverantwortliche für die Einführung von yonesty
 
-## Stammdaten der Organisation
+## Allgemeine Informationen zur Organisation
 
 Navigieren Sie zu:
 
@@ -37,38 +52,6 @@ Beispiele:
 - Muster AG
 - yonesty GmbH
 
-### Kurzname
-
-Optional kann ein Kurzname oder Organisationsschlüssel gepflegt werden.
-
-Beispiele:
-
-```text
-HNG
-MSP
-YON
-```
-
-### Status
-
-Der Status beschreibt, ob die Organisation aktiv genutzt wird.
-
-Mögliche Werte:
-
-- Aktiv
-- Inaktiv
-
-<figure>
-    <img src="screenshots/yonesty-Anmeldung.png">
-    <figcaption>Die Hammer und Nagel GmbH Organsationseinrichtung</figcaption>
-</figure>
-
-### Logo
-
-Das Organisationslogo erscheint an verschiedenen Stellen innerhalb von yonesty.
-
-Dadurch erhält die Umgebung einen individuellen Charakter und eine bessere Wiedererkennung.
-
 ### Adresse
 
 Pflegen Sie die grundlegenden Adressdaten:
@@ -87,7 +70,7 @@ Optional können allgemeine Kontaktdaten hinterlegt werden:
 - Telefonnummer
 - Website
 
-## Unternehmensbeschreibung
+### Unternehmensbeschreibung
 
 Die Unternehmensbeschreibung ist eines der wichtigsten Felder der gesamten Organisation.
 
@@ -101,7 +84,6 @@ Hier beschreiben Sie:
 
 ### Beispiel
 
-```text
 Die Hammer & Nagel GmbH entwickelt, produziert und vertreibt
 hochwertige Befestigungs- und Montagelösungen für Industrie,
 Handwerk und Handel.
@@ -110,22 +92,36 @@ Das Unternehmen beschäftigt 250 Mitarbeitende an drei Standorten
 in Deutschland und verfolgt das Ziel, seine Kunden durch
 hohe Qualität, Zuverlässigkeit und innovative Produkte zu
 unterstützen.
-```
 
-## Warum ist die Unternehmensbeschreibung wichtig?
+<figure>
+    <img src="screenshots/yonesty - Organisation Informationen.png">
+    <figcaption>Die Hammer und Nagel GmbH Organsationseinrichtung</figcaption>
+</figure>
 
-Die Unternehmensbeschreibung liefert den gemeinsamen Kontext für die gesamte Organisation.
+## Logo und Individelles Branding
 
-Insbesondere Yona kann dadurch:
+Das Organisationslogo erscheint an verschiedenen Stellen innerhalb von yonesty.
 
-- Antworten besser einordnen
-- Fachbegriffe verstehen
-- Rollen besser interpretieren
-- Ziele leichter bewerten
-- Prozesse besser erklären
-- organisationsspezifische Zusammenhänge erkennen
+Dadurch erhält die Umgebung einen individuellen Charakter und eine bessere Wiedererkennung.
 
-Je aussagekräftiger die Unternehmensbeschreibung gepflegt wird, desto besser kann Yona die Organisation verstehen.
+<figure>
+    <img src="screenshots/yonesty - Organisation Branding.png">
+    <figcaption>Die Hammer und Nagel GmbH Branding-Einstellungen für Farben und Logo</figcaption>
+</figure>
+
+## Die Organisationsziele auf einem Blick
+<figure>
+    <img src="screenshots/yonesty - Organisation - Ziele.png">
+    <figcaption>Die Hammer und Nagel GmbH Ziele zusammengefasst</figcaption>
+</figure>
+
+## Die Aktivierung von Chatbot Yona für die Organisation
+<figure>
+    <img src="screenshots/yonesty - Organisation - Chatbot Yona.png">
+    <figcaption>Die Hammer und Nagel GmbH KI Einrichtung für Anthrophic Claude per API Key</figcaption>
+</figure>
+
+
 
 ## Personen synchronisieren
 
