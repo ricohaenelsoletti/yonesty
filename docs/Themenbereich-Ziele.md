@@ -5,8 +5,13 @@ In yonesty können Ziele für die Organisation, für Teams oder für einzelne Pe
 Nutze Ziele, wenn du sichtbar machen möchtest, woran gearbeitet wird, wie weit ein Thema fortgeschritten ist und welche Personen oder Teams beteiligt sind. Die Baumansicht hilft dabei, größere Zielbilder in kleinere Teilziele zu gliedern.
 
 <figure>
-    <img src="screenshots/yonesty-Ziele.png">
+    <img src="/screenshots/yonesty-Ziele.png">
     <figcaption>Die Hammer und Nagel GmbH Ziele im Überblick (Baumstruktur)</figcaption>
+</figure>
+
+<figure>
+    <img src="/screenshots/yonesty-Ziele-Fortschritt.png">
+    <figcaption>Wichtig: Die Fortschrittsanzeige und regelmäßige Überprüfung, ob die Ziele erreicht werden.</figcaption>
 </figure>
 
 ## Wie nutzen die jeweiligen Rollen das Thema Ziele typischerweise?
