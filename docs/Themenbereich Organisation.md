@@ -115,6 +115,16 @@ Dadurch erhält die Umgebung einen individuellen Charakter und eine bessere Wied
     <figcaption>Die Hammer und Nagel GmbH Ziele zusammengefasst</figcaption>
 </figure>
 
+## Die Microsoft Azure Integration
+
+Mit der Microsoft Azure Integration können Sie alle Personeninformationen synchronisieren und Zugriffe sicher bspw. über MFA verwalten.
+
+<figure>
+    <img src="screenshots/yonesty - Organisation - Azure.png">
+    <figcaption>Die Microsoft Integration für die Datensicherheit und sicheren Zugriff</figcaption>
+</figure>
+
+
 ## Die Aktivierung von Chatbot Yona für die Organisation
 <figure>
     <img src="screenshots/yonesty - Organisation - Chatbot Yona.png">
@@ -122,55 +132,6 @@ Dadurch erhält die Umgebung einen individuellen Charakter und eine bessere Wied
 </figure>
 
 
-
-## Personen synchronisieren
-
-Nach der Anlage der Organisation sollten die Personen übernommen werden.
-
-Empfohlen wird die Synchronisation über Microsoft Entra ID bzw. Microsoft 365.
-
-Vorteile:
-
-- Automatische Benutzeranlage
-- Aktuelle Stammdaten
-- Weniger Pflegeaufwand
-- Grundlage für Single Sign-On
-- Unterstützung von Microsoft Authentifizierung und MFA
-
-Alternativ können Personen auch manuell angelegt werden.
-
-## Teams anlegen
-
-Nach der Anlage der Personen werden die Teams definiert.
-
-Typische Teams sind:
-
-- Geschäftsführung
-- Vertrieb
-- Marketing
-- Entwicklung
-- Produktion
-- HR
-- Finanzen
-- Service
-
-Teams bilden häufig die Grundlage für:
-
-- Ziele
-- Feedbackgespräche
-- Verantwortlichkeiten
-- RACI-Matrizen
-- Auswertungen
-
-## Empfohlene Reihenfolge der Einrichtung
-
-Für einen schnellen Start empfiehlt sich folgende Reihenfolge:
-
-1. Organisation anlegen
-2. Unternehmensbeschreibung pflegen
-3. Logo und Kontaktdaten ergänzen
-4. Personen per Azure-Synchronisation importieren
-5. Teams anlegen
 6. Rollen definieren
 7. Prozesse erfassen
 8. Ziele hinterlegen
