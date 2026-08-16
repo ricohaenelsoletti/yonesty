@@ -15,6 +15,10 @@ Basismerkmale sind die grundlegenden Informationen, die eine Organisation in yon
 * Feedbackgespräche und 
 * Aktivitäten. 
 
+<figure markdown="span"> <img src="screenshots/yonesty - Modell.png">
+<figcaption>Das yonesty Modell mit allen wichtigen Organisations-Elementen, die miteinander in Verbindung stehen.</figcaption>
+</figure>
+
 Diese Merkmale sind wichtig, weil sie Ordnung schaffen und Orientierung geben. Für sich allein betrachtet können solche Informationen jedoch auch in anderen Anwendungen vorkommen – zum Beispiel als Listen, Tabellen oder einzelne Module.
 
 In yonesty bilden diese Basismerkmale die gemeinsame Datengrundlage. Sie sorgen dafür, dass alle Beteiligten über dieselben Begriffe, Strukturen und Objekte sprechen. Entscheidend ist aber nicht nur, dass diese Daten vorhanden sind, sondern wie gut sie gepflegt, aktuell gehalten und miteinander verbunden werden.
