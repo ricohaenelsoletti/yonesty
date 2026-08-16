@@ -58,6 +58,11 @@ Mögliche Werte:
 - Aktiv
 - Inaktiv
 
+<figure>
+    <img src="screenshots/yonesty-Anmeldung.png">
+    <figcaption>Die Hammer und Nagel GmbH Organsationseinrichtung</figcaption>
+</figure>
+
 ### Logo
 
 Das Organisationslogo erscheint an verschiedenen Stellen innerhalb von yonesty.
