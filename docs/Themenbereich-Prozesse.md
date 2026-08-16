@@ -34,7 +34,10 @@ Bevor du neue Prozesse anlegst, überlege kurz, welche Struktur sinnvoll ist. Fr
 5. Ergänze bei Bedarf eine kurze Beschreibung, damit andere Nutzer verstehen, welche Prozesse in diese Kategorie gehören.
 6. Speichere die Prozesskategorie.
 
-[Screenshot ergänzen: Neue Prozesskategorie anlegen]
+<figure>
+    <img src="/screenshots/yonesty-Prozesskategorien.png">
+    <figcaption>Die Hammer und Nagel GmbH Prozesskategorien einfach gehalten</figcaption>
+</figure>
 
 ### 3. Prozessgruppe anlegen
 
@@ -45,7 +48,10 @@ Bevor du neue Prozesse anlegst, überlege kurz, welche Struktur sinnvoll ist. Fr
 5. Beschreibe kurz, welche Prozesse in dieser Gruppe gebündelt werden.
 6. Speichere die Prozessgruppe.
 
-[Screenshot ergänzen: Neue Prozessgruppe anlegen und Kategorie auswählen]
+<figure>
+    <img src="/screenshots/yonesty-Prozessgruppen.png">
+    <figcaption>Die Hammer und Nagel GmbH Prozessgruppen zu den Prozesskategorien</figcaption>
+</figure>
 
 ### 4. Prozess anlegen
 
@@ -57,13 +63,24 @@ Bevor du neue Prozesse anlegst, überlege kurz, welche Struktur sinnvoll ist. Fr
 6. Ergänze bei Bedarf weitere Informationen, zum Beispiel Schlagwörter, Anwendungen oder Hinweise zur Nutzung.
 7. Speichere den Prozess.
 
-[Screenshot ergänzen: Prozess anlegen und Prozessgruppe auswählen]
+<figure>
+    <img src="/screenshots/yonesty-Prozesse.png">
+    <figcaption>Die Hammer und Nagel GmbH Prozessübersicht</figcaption>
+</figure>
+
+<figure>
+    <img src="/screenshots/yonesty-Prozess-Materialbeschaffung.png">
+    <figcaption>Die Hammer und Nagel GmbH- ein konkreter Prozess der Materialbeschaffung</figcaption>
+</figure>
 
 ### 5. Prozess mit Rollen verbinden
 
 Damit aus einem Prozess echte Verantwortung entsteht, verbindest du ihn mit Rollen. Öffne dazu den Prozess oder die passende Rollenansicht und ordne die relevanten Rollen zu. Lege fest, welche Rolle verantwortlich ist, wer rechenschaftspflichtig ist, wer eingebunden wird und wer informiert werden soll. Diese Zuordnung wird später in der RACI-Matrix sichtbar.
 
-[Screenshot ergänzen: Rollen oder RACI-Zuordnung am Prozess]
+<figure>
+    <img src="/screenshots/yonesty-Prozess-Materialbeschaffung-Rollen.png">
+    <figcaption>Verknüpfung eines Prozesses mit Rollen.</figcaption>
+</figure>
 
 ### 6. Prozess mit Zielen, Anwendungen oder weiteren Informationen verknüpfen
 
