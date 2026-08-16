@@ -4,7 +4,9 @@ Personen und Teams bilden die Grundlage für viele Funktionen in yonesty.
 
 Sie verbinden Menschen mit Rollen, Zielen, Prozessen, Fähigkeiten, Feedbacks und Aktivitäten. Deshalb empfiehlt es sich, die Stammdaten möglichst früh vollständig zu pflegen.
 
-## Empfehlung: Microsoft Entra ID / Azure Synchronisation
+## Personen verwalten
+
+### Empfehlung: Microsoft Entra ID / Azure Synchronisation
 
 Der einfachste Weg ist die automatische Synchronisation der Personen aus Microsoft Entra ID (ehemals Azure Active Directory).
 
@@ -20,7 +22,7 @@ Vorteile:
 
 Nach der Synchronisation können die Personen direkt in Rollen, Teams, Zielen, Prozessen und Feedbackgesprächen verwendet werden.
 
-## Personen manuell anlegen
+### Personen manuell anlegen
 
 Alternativ können Personen auch manuell angelegt werden.
 
@@ -56,7 +58,7 @@ Anschließend wählen Sie:
 </figure>
 
 
-## Personen und Rollen
+### Personen und Rollen
 
 Eine Person kann mehrere Rollen besitzen.
 
@@ -86,14 +88,11 @@ Ein Team kann beispielsweise sein:
 - Service
 
 Teams schaffen Transparenz über Zuständigkeiten und erleichtern die Zuordnung von Zielen, Rollen und Prozessen.
-
 <figure>
     <img src="screenshots/yonesty - Team Management.png">
-    <figcaption>Die Hammer und Nagel GmbH Teams im Überblick</figcaption>
+    <figcaption>Team Verwaltung mit Rechten und Rollen</figcaption>
 </figure>
-
-
-## Team anlegen
+# Team anlegen
 
 Navigieren Sie zu:
 
@@ -118,19 +117,24 @@ Anschließend wählen Sie:
 - Zugeordnete Personen
 - Zugeordnete Rollen
 
-## Teambesitzer und Teamleiter
+### Teambesitzer und Teamleiter
 
 Optional kann für jedes Team ein Teambesitzer und ein Teamleiter definiert werden.
 
 Diese Personen dienen als Ansprechpartner für das Team und können beispielsweise Verantwortlichkeiten innerhalb von Prozessen oder Zielen übernehmen.
 
-## Personen im Team verwalten
+### Personen im Team verwalten
 
 Nach dem Anlegen eines Teams können Personen hinzugefügt werden.
 
 Eine Person kann Mitglied mehrerer Teams sein.
 
 Dadurch lassen sich auch Matrixorganisationen oder Projektstrukturen einfach abbilden.
+
+<figure>
+    <img src="screenshots/yonesty - Team Verwaltung.png">
+    <figcaption>Team Verwaltung mit Rechten und Rollen</figcaption>
+</figure>
 
 ## Verwendung in yonesty
 
