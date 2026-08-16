@@ -55,5 +55,9 @@ Beispiele:
 * Verantwortliche für Ziele können Yona nutzen, um Zielzusammenhänge und offene Handlungsfelder besser zu verstehen. 
 * Prozessverantwortliche können Prozessbeschreibungen verbessern oder Lücken in der Prozesslandschaft erkennen. Administratoren können Hinweise auf Datenqualität, Struktur und Berechtigungen besser einordnen.
 
+<figure markdown="span"> <img src="screenshots/yonesty - Yona liefert Zusammenhänge.png">
+<figcaption>Yona liefert Zusammenhänge und transformiert einfache Daten zu zusammenhängenden Organisations-Wissen.</figcaption>
+</figure>
+
 Wichtig ist: Yona wird umso wertvoller, je aktueller, vollständiger und besser verknüpft die Daten in yonesty sind. Gute Rollen, klare Prozesse, verständliche Ziele, gepflegte Fähigkeiten, strukturierte Feedbacks und konkrete Aktivitäten sind die Grundlage dafür, dass KI-Unterstützung nicht nur allgemein antwortet, sondern wirklich im Kontext der Organisation hilft.
 
