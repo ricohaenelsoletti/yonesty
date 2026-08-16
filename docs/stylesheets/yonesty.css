@@ -209,8 +209,8 @@
 /* Eckige Ecken */
 .md-typeset img {
    border-radius: 0px;
-   max-width: 600px;
-   width: 750%;
+   max-width: 800px;
+   width: 90%;
    height: auto;
    align: left;
    text-align: left;
