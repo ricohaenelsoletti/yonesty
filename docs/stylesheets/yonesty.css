@@ -76,10 +76,10 @@
   color: #24292f;
 
   /* Schriftgröße */
-  font-size: 1.25rem;
+  font-size: 1.00rem;
 
   /* Schriftstärke */
-  font-weight: 600;
+  font-weight: 400;
 
   /* Abstand zwischen Text und Linie */
   padding-bottom: 0.25rem;
@@ -103,9 +103,9 @@
 
   color: #24292f;
 
-  font-size: 1.05rem;
+  font-size: 0.90rem;
 
-  font-weight: 600;
+  font-weight: 400;
 
   margin-top: 1.5rem;
 }
