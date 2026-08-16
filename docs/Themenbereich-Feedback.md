@@ -4,7 +4,10 @@ Feedbackgespräche in yonesty folgen einer klaren Logik: Zuerst braucht es passe
 
 Der Sinn jedes Feedbackgesprächs ist es, ehrlich Feedback zu geben, Erfolge zu würdigen, bei Bedarf Kritik offen anzusprechen und möglichst immer einen nächsten Schritt zu planen: „your next step with honesty“. Diese nächsten Schritte sollten in Richtung der Unternehmensziele zeigen. Im besten Fall sind sie kongruent: Die Organisation braucht diese Entwicklung, und die Mitarbeitenden möchten sich ebenfalls in diese Richtung entwickeln. Wenn das nicht der Fall ist, entsteht wertvolles Gesprächspotenzial.
 
-[Screenshot einfügen: Feedback-Übersicht oder Feedbackgespräch der Hammer & Nagel GmbH. Bildunterschrift: Beispiel aus dem Demo-Unternehmen Hammer & Nagel GmbH: Geplante Feedbackgespräche mit Vorlage, Gesprächspartnern, Status und nächsten Schritten.]
+<figure>
+    <img src="/screenshots/yonesty-Feedbacks.png">
+    <figcaption>Die Übersicht aller Feedbacks der angemeldeten PErson</figcaption>
+</figure>
 
 ## Wie nutzen die jeweiligen Rollen das Thema Feedbackgespräche typischerweise?
 
@@ -41,6 +44,20 @@ Administratoren stellen sicher, dass Feedbackvorlagen, Berechtigungen, Sichtbark
 
 ## Schritt-für-Schritt-Anleitung: Von der Feedbackvorlage bis zum Abschluss
 
+### 0. Feedbacktypen im Admin-Bereich anlegen
+
+Feedbacktypen gruppieren Feedbackvorlagen. Folgende Feedbacktypen werden in der Regel in Organisationen genutzt und sind hinterlegt:
+
+* Onboarding - Feedbacks im Rahmen des Neustarts einer Person in einer Organisation
+* Entwicklung - Feedbacks, um die Entwicklung einer Person zu fördern
+* Beziehung - Feedback, um die Beziehung zu einer Person zu fördern (bspw. 1:1 Checkins oder 360° Reviews)
+* Offboarding - Feedbacks im Rahmen des Ausscheidens aus einer Organisation
+
+<figure>
+    <img src="screenshots/yonesty-Feedbacktypen.png">
+    <figcaption>Feedbacktypen der Hammer und Nagel GmbH</figcaption>
+</figure>
+
 ### 1. Feedbackvorlagen: Grundlage für gute Gespräche
 
 Feedbackvorlagen sind eine gute Grundlage, weil sie jedem Gespräch einen klaren Rahmen geben. Sie sorgen dafür, dass wichtige Themen nicht vergessen werden, Gespräche vergleichbarer werden und alle Beteiligten wissen, worum es geht. Für HR- und People-Verantwortliche sowie das Management entsteht dadurch ein einheitlicher Qualitätsstandard. Teamleiter erhalten einen praktischen Leitfaden, der Sicherheit gibt und die Vorbereitung erleichtert. Mitarbeitende erleben, dass Feedbackgespräche nicht beliebig geführt werden, sondern sorgfältig, fair und wertschätzend vorbereitet sind. Gleichzeitig bleibt jedes Gespräch persönlich: Die Vorlage gibt Struktur, aber der echte Dialog, die individuelle Situation und die persönliche Note stehen weiterhin im Mittelpunkt.
@@ -58,11 +75,19 @@ Feedbackvorlagen werden in der Regel im Admin-Bereich angelegt und gepflegt. Dam
 7. Prüfe, ob die Vorlage zur Kultur und Gesprächslogik deiner Organisation passt.
 8. Speichere die Vorlage und stelle sie für die berechtigten Nutzer bereit.
 
-[Screenshot einfügen: Feedbackvorlage im Admin-Bereich der Hammer & Nagel GmbH. Bildunterschrift: Beispiel aus dem Demo-Unternehmen Hammer & Nagel GmbH: Feedbackvorlage mit Fragen, Themenblöcken und Einstellungen für einheitliche Gesprächsstandards.]
+<figure>
+    <img src="/screenshots/yonesty-Feedbackvorlagen.png">
+    <figcaption>Die Hammer und Nagel GmbH Teams im Überblick</figcaption>
+</figure>
 
 Feedbackvorlagen sorgen dafür, dass wiederkehrende Feedbackgespräche gut vorbereitet und vergleichbar durchgeführt werden können. Eine Vorlage beschreibt, welche Fragen gestellt werden, welche Themen relevant sind und worauf im Gespräch geachtet werden soll. Sie hilft dabei, Feedbackgespräche nicht zufällig, sondern strukturiert und fair zu gestalten.
 
 Eine gute Feedbackvorlage enthält zum Beispiel Fragen zu Erfolgen, Herausforderungen, Zusammenarbeit, Rollenverständnis, Zielbeitrag, Fähigkeiten, Erwartungen und möglichen nächsten Entwicklungsschritten. So wird das Gespräch nicht nur rückblickend, sondern auch nach vorn gerichtet.
+
+<figure>
+    <img src="/screenshots/yonesty-Feedbackvorlage.png">
+    <figcaption>Die Hammer und Nagel GmbH Teams im Überblick</figcaption>
+</figure>
 
 ### 3. Feedbackgespräch anlegen
 
