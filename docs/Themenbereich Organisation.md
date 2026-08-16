@@ -120,7 +120,7 @@ Dadurch erhält die Umgebung einen individuellen Charakter und eine bessere Wied
 Mit der Microsoft Azure Integration können Sie alle Personeninformationen synchronisieren und Zugriffe sicher bspw. über MFA verwalten.
 
 <figure markdown="span">
-    <img src="screenshots/yonesty-Organisation-Azure.png">
+    <img src="/screenshots/yonesty-Organisation-Azure.png">
     <figcaption>Die Microsoft Integration für die Datensicherheit und sicheren Zugriff</figcaption>
 </figure>
 
