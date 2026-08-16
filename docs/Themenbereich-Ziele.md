@@ -1,10 +1,12 @@
-Ziele geben Orientierung und machen Entwicklung messbar. In yonesty können Ziele für die Organisation, für Teams oder für einzelne Personen gepflegt werden. Ziele lassen sich hierarchisch strukturieren, mit Prozessen verbinden, mit Verantwortlichen versehen und über Status, Fortschritt oder Messwerte verfolgen.
+# Ziele geben Orientierung und machen Entwicklung messbar. 
+
+In yonesty können Ziele für die Organisation, für Teams oder für einzelne Personen gepflegt werden. Ziele lassen sich hierarchisch strukturieren, mit Prozessen verbinden, mit Verantwortlichen versehen und über Status, Fortschritt oder Messwerte verfolgen.
 
 Nutze Ziele, wenn du sichtbar machen möchtest, woran gearbeitet wird, wie weit ein Thema fortgeschritten ist und welche Personen oder Teams beteiligt sind. Die Baumansicht hilft dabei, größere Zielbilder in kleinere Teilziele zu gliedern.
 
 [Screenshot einfügen: Zielbaum oder Ziel-Detailansicht der Hammer & Nagel GmbH. Bildunterschrift: Beispiel aus dem Demo-Unternehmen Hammer & Nagel GmbH: Zielansicht mit Verantwortlichen, Status, Fortschritt und möglichen Verknüpfungen zu Prozessen oder Aktivitäten.]
 
-# Wie nutzen die jeweiligen Rollen das Thema Ziele typischerweise?
+## Wie nutzen die jeweiligen Rollen das Thema Ziele typischerweise?
 
 | Tätigkeit | Typisch zuständig | Beschreibung |
 |---|---|---|
@@ -15,7 +17,7 @@ Nutze Ziele, wenn du sichtbar machen möchtest, woran gearbeitet wird, wie weit 
 
 Konkret arbeitest du bei Zielen mit Zielname, Zieltyp, Beschreibung, Zielhierarchie, Verantwortlichen, Status, Zeitraum, Fälligkeit, Fortschritt, Messwerten und Verknüpfungen zu Personen, Teams oder Prozessen. Beim Lesen steht der Beitrag zum Ziel im Vordergrund. Beim Pflegen ist wichtig, dass Status, Fortschritt und Verantwortlichkeiten regelmäßig aktualisiert werden.
 
-# Schritt-für-Schritt-Anleitung: Ziele anlegen und pflegen
+## Schritt-für-Schritt-Anleitung: Ziele anlegen und pflegen
 
 1. Öffne den Bereich Ziele.
 2. Lege ein neues Ziel an oder öffne ein bestehendes Ziel.
@@ -26,6 +28,6 @@ Konkret arbeitest du bei Zielen mit Zielname, Zieltyp, Beschreibung, Zielhierarc
 7. Pflege Status, Zeitraum, Fälligkeit, Messwerte oder Fortschritt, soweit diese Informationen genutzt werden.
 8. Prüfe die Zielhierarchie in der Baumansicht und speichere das Ziel.
 
-# Endnutzer-Anleitung: Ziele verstehen
+## Endnutzer-Anleitung: Ziele verstehen
 
 Wenn du ein Ziel öffnest, lies zuerst den Zielnamen, die Beschreibung und den aktuellen Status. Prüfe, ob das Ziel zu deiner Person, deinem Team oder deiner Organisation gehört. Achte darauf, welche Teilziele, Prozesse oder Verantwortlichen verbunden sind. Ein Ziel hilft dir zu verstehen, woran gearbeitet wird, warum es wichtig ist und welchen Beitrag du leisten kannst.
