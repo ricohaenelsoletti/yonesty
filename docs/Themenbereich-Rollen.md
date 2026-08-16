@@ -28,6 +28,11 @@ Konkret arbeitest du bei Rollen vor allem mit Name, Beschreibung, Status, organi
 7. Prüfe, ob Start- und Enddaten, Status oder organisatorische Zuordnungen korrekt gepflegt sind.
 8. Speichere die Rolle und prüfe anschließend die Darstellung in Listen, Detailansicht und Matrizen.
 
+<figure>
+    <img src="/screenshots/yonesty-Rollen.png">
+    <figcaption>Eine Übersicht von Rollen für Hammer und Nagel GmbH</figcaption>
+</figure>
+
 ## Endnutzer-Anleitung: Rollen verstehen
 
 Wenn du eine Rolle öffnest, prüfe zuerst den Namen, die Beschreibung und die verbundenen Prozesse. Achte darauf, ob du selbst dieser Rolle zugeordnet bist und welche Verantwortung daraus entsteht. Die Rolle hilft dir zu verstehen, was von dir erwartet wird, mit welchen Prozessen du verbunden bist und welche Fähigkeiten oder Aktivitäten für deine Entwicklung relevant sein können.
