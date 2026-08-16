@@ -14,7 +14,10 @@ Der Katalog ist wie ein Blumenstrauß an Möglichkeiten: Mitarbeitende und Führ
 
 Damit sind Aktivitätsvorlagen eine wichtige Grundlage für die Anpassungsfähigkeit von Organisationen. Sie ebnen Möglichkeiten und Wege, die im Feedbackgespräch geöffnet werden können. Dort wird gemeinsam entschieden, welche Entwicklung wirklich sinnvoll ist, welche Aktivität zur Person, zur Rolle und zu den Organisationszielen passt und wie der nächste Schritt konkret verfolgt wird.
 
-[Screenshot einfügen: Aktivitätenübersicht oder Aktivitätsdetail der Hammer & Nagel GmbH. Bildunterschrift: Beispiel aus dem Demo-Unternehmen Hammer & Nagel GmbH: Aktivität aus einem Feedbackgespräch mit Verantwortlichkeit, Fälligkeit, Status und Bezug zu Ziel oder Fähigkeit.]
+<figure>
+    <img src="/screenshots/yonesty-Aktivitaetenvorlagen.png">
+    <figcaption>Die Aktivitätenvorlagen als Weiterbildungskatalog von Hammer und Nagel GmbH</figcaption>
+</figure>
 
 ## Wie nutzen die jeweiligen Rollen das Thema Aktivitäten und Your Next Steps typischerweise?
 
@@ -38,6 +41,11 @@ Konkret bestehen Aktivitätsvorlagen aus Titel, Beschreibung, Anbieter oder Quel
 6. Wähle im Feedbackgespräch eine passende Aktivitätsvorlage aus, wenn daraus ein konkreter nächster Schritt für eine Person entstehen soll.
 7. Ergänze Verantwortliche, Fälligkeit, Status und Verknüpfungen zu Rollen, Zielen, Fähigkeiten oder Feedbacks.
 8. Verfolge die Aktivität gemeinsam im weiteren Entwicklungsprozess und prüfe, ob sie angepasst, verschoben oder abgeschlossen werden sollte.
+
+<figure>
+    <img src="/screenshots/yonesty-Aktivitaeten.png">
+    <figcaption>Konkrete Aktivitäten/Weiterbildungen für Mitarbeitende der Hammer und Nagel GmbH (Auszug und Filter)</figcaption>
+</figure>
 
 ## Endnutzer-Anleitung: Aktivitäten verstehen und bearbeiten
 
