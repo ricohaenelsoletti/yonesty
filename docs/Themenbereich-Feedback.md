@@ -1,4 +1,4 @@
-#Feedbackgespräche - offen und faktenbasiert
+# Feedbackgespräche - offen und faktenbasiert
 
 Feedbackgespräche in yonesty folgen einer klaren Logik: Zuerst braucht es passende Feedbackvorlagen. Aus diesen Vorlagen können konkrete Feedbackgespräche angelegt werden. Danach wird das Gespräch vorbereitet, durchgeführt, dokumentiert und am Ende abgeschlossen. So entsteht ein nachvollziehbarer Entwicklungsprozess – vom Gesprächsanlass bis zum nächsten konkreten Schritt.
 
