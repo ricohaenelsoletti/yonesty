@@ -212,8 +212,8 @@
 .md-typeset img {
    display: block;
    border-radius: 0px;
-   max-width: 800px;
-   width: 90%;
+   max-width: 1024px;
+   width: 100%;
    height: auto;
    text-align: left;
 }
