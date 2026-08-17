@@ -54,7 +54,7 @@ Feedbacktypen gruppieren Feedbackvorlagen. Folgende Feedbacktypen werden in der 
 * Offboarding - Feedbacks im Rahmen des Ausscheidens aus einer Organisation
 
 <figure>
-    <img src="screenshots/yonesty-Feedbacktypen.png">
+    <img src="/screenshots/yonesty-Feedbacktypen.png">
     <figcaption>Feedbacktypen der Hammer und Nagel GmbH</figcaption>
 </figure>
 
