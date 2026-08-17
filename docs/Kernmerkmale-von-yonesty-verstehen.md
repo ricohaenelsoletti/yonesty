@@ -2,6 +2,11 @@
 
 yonesty besteht aus mehreren Ebenen von Merkmalen. Einige davon sind grundlegende Funktionen, die Nutzer erwarten. Andere schaffen den eigentlichen Mehrwert im Alltag, weil sie Informationen miteinander verbinden. Besonders stark wird yonesty dort, wo diese verknüpften Organisationsdaten mit YONA als KI-Unterstützung nutzbar werden.
 
+<figure>
+    <img src="screenshots/yonestyPyramide.png">
+    <figcaption>Die yonesty Merkmale: Nur mit guten Basisdaten können Verknüpfungen erstellt und mit KI-Unterstützung Organisationsentwicklung betrieben werden.</figcaption>
+</figure>
+
 ## Basismerkmale: Die gemeinsame Datengrundlage
 
 Basismerkmale sind die grundlegenden Informationen, die eine Organisation in yonesty pflegt. Dazu gehören
