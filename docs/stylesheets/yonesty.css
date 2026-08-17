@@ -219,11 +219,11 @@
 }
 
 .md-typeset figcaption {
-
+    display: block;
     text-align: left;
     font-style: italic;
     color: #57606a;
-    font-size: 0.65rem;
+    font-size: 0.55rem;
     margin-top: 0.25rem;
 }
 /* -----------------------------------------------------------
