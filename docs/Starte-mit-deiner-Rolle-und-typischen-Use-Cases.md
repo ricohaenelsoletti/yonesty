@@ -14,6 +14,13 @@ Als Anwender nutzt du yonesty vor allem, um deine eigene Arbeit, deine Verantwor
 5. Verfolge deine Aktivitäten, für die du verantwortlich bist und die du mit deinem Teamleiter im Feedbackgespräch besprochen hast. Den Status änderst du nicht allein, sondern gemeinsam mit deinem Teamleiter. Fortschritte können gemeinsam gewürdigt und gefeiert werden. Wenn es Schwierigkeiten gibt, könnt ihr die Aktivität gemeinsam anpassen, verschieben oder neu ausrichten.
 6. Nutze Yona, um Begriffe, Zusammenhänge oder nächste Schritte schneller zu verstehen.
 
+Voila. Mehr ist für Anwender nicht notwendig zu wissen :-)
+
+<figure>
+    <img src="/screenshots/yonesty-Dashboard.png">
+    <figcaption>Das persönliche Dashboard mit allen wichtigen Informationen für den Anwender: Ziele, Rolle, Aktivitäten, Prozesse und Verantwortung. Und Yona, mit der ich darüber nachdenken kann.</figcaption>
+</figure>
+
 ## Anleitung für Teamleiter
 
 Als Teamleiter nutzt du yonesty, um Verantwortung, Ziele, Entwicklung und nächste Schritte im Team sichtbar zu machen. Typische Verantwortlichkeiten sind: Teamrollen pflegen, Teamziele anlegen und verfolgen, Feedbackgespräche vorbereiten, Aktivitäten ableiten sowie Fähigkeiten und Erwartungen im Team besprechen.
