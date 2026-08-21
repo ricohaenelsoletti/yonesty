@@ -54,6 +54,9 @@ nav:
   - Begeisterung mit KI:
       - Yona KI Assistent: Yona.md
 
+  - Administration
+      - Microsoft Azure Synchronisation Personen: Administration.md
+
 copyright: >
   © 2026 yonesty powered by soletti
 extra:
