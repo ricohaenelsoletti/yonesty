@@ -8,24 +8,19 @@ yonesty mit erhöhtem Sicherheitslevel geht mit einer Authentication. yonesty ma
 1. Standardfunktion für Azure Sync konfigurieren
     * Gehe zu Admin - Stammdaten - Funktionen und wähle eine Rolle als Standardfunktion für den Azure Sync.
   
-<figure>
-    <img src="/screenshots/yonesty-Administration-Funktion-SetAsStandard.png">
-    <figcaption>Notwendiges Setup an der Funktion</figcaption>
-</figure>
-
-
 2. Berechtigungen für neue Benutzer festlegen:
     *  Stelle sicher, dass das Berechtigungssystem für neue Benutzer, die durch den Azure Sync hinzugefügt werden, korrekt konfiguriert ist.
     *  Eine Berechtigungsrolle benötigt ebenfalls den Standard für Azure Sync.
 
 <figure>
+    <img src="/screenshots/yonesty-Administration-Funktion-SetAsStandard.png">
+    <figcaption>Notwendiges Setup an der Funktion</figcaption>
+</figure>
+
+<figure>
     <img src="/screenshots/yonesty-Administration-Berechtigungen.png">
     <figcaption>Notwendiges Setup an der Berechtigung</figcaption>
 </figure>
-
-3. Azure Einstellungen:
-    * Navigiere im Admin-Bereich zu Organisationen - Azure Einstellungen und hinterlege die notwendigen Informationen.
-    * Aktiviere die Authentifizierung in den Azure Einstellungen.
 
 
 ### Einrichtung im Microsoft Admin Center
@@ -46,10 +41,13 @@ Rufe die notwendigen Daten unter admin.microsoft.com ab und übertrage diese in 
 7. Authentifizierung Web: URL einfügen
 
 ### Verknüpfung yonesty x Microsoft
-Werte aus Entra übertragen: Kopiere die Werte aus Entra in die entsprechenden Felder im Admin-Bereich der yonesty App:
+
+Navigiere im Admin-Bereich zu Organisationen - Azure Einstellungen und hinterlege die notwendigen Informationen.
 
 1. Azure Client ID: Anwendungs-ID (Client)
 2. Azure Cloud Instanz: URL der autoritativen Stelle https://login.microsoftonline.com
 3. Azure Tenant ID: Verzeichnis-ID (Mandant)
 4. Azure Graph-API-Endpunkt: Microsoft Graph-API Endpunkt https://graph.microsoft.com/v1.0/
 5. Azure Client ID Secret: Zertifikate Schlüsselwert
+6. Aktiviere die Authentifizierung in den Azure Einstellungen.
+
