@@ -1,6 +1,6 @@
-# Ziele geben Orientierung und machen Entwicklung messbar 
+# Ziele
 
-In yonesty können Ziele für die Organisation, für Teams oder für einzelne Personen gepflegt werden. Ziele lassen sich hierarchisch strukturieren, mit Prozessen verbinden, mit Verantwortlichen versehen und über Status, Fortschritt oder Messwerte verfolgen.
+Ziele geben Orientierung und machen Entwicklung messbar. In yonesty können Ziele für die Organisation, für Teams oder für einzelne Personen gepflegt werden. Ziele lassen sich hierarchisch strukturieren, mit Prozessen verbinden, mit Verantwortlichen versehen und über Status, Fortschritt oder Messwerte verfolgen.
 
 Nutze Ziele, wenn du sichtbar machen möchtest, woran gearbeitet wird, wie weit ein Thema fortgeschritten ist und welche Personen oder Teams beteiligt sind. Die Baumansicht hilft dabei, größere Zielbilder in kleinere Teilziele zu gliedern.
 
