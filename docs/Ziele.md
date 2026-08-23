@@ -1,4 +1,4 @@
-# Ziele geben Orientierung und machen Entwicklung messbar. 
+# Ziele geben Orientierung und machen Entwicklung messbar 
 
 In yonesty können Ziele für die Organisation, für Teams oder für einzelne Personen gepflegt werden. Ziele lassen sich hierarchisch strukturieren, mit Prozessen verbinden, mit Verantwortlichen versehen und über Status, Fortschritt oder Messwerte verfolgen.
 
