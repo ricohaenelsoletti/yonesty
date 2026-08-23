@@ -6,7 +6,7 @@
 </figure>
 
 
-## Nutzen
+## Warum ist die Verbindung von Prozessen mit Zielen so wichtig?
 
 Während die Verbindung von Rollen und Prozessen das „Wer macht was?" klärt, beantwortet die Verbindung von Prozessen mit Zielen das entscheidende „Wozu machen wir das eigentlich?". Hier ist die Bedeutung im Detail:
 
