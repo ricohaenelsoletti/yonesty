@@ -1,5 +1,14 @@
 # Nutzen (ROI bzw. Kosten des Nichttuns)
 
+**Prompt-Tipp, um den Nutzen für Deine Organisation zu berechnen** 
+> Bitte nutze diese Nutzenaufstellung von https://docs.yonesty.cloud/Nutzen/ und rechne mit folgenden Zahlen:
+> 
+> Anzahl Mitarbeitende:  <Zahl eingeben>
+>
+> Anzahl Rollen: <Zahl eingeben>
+>
+> Anzahl Prozesse: <Zahl eingeben>
+
 ## Rechnung 1: Nutzen für kleine Organisationen (16 Mitarbeitende, 54 Prozesse)
 
 Wir nutzen das Demounternehmen Hammer und Nagel GmbH für die Berechnung.
