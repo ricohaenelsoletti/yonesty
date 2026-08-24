@@ -9,7 +9,7 @@ Diese Dokumentation richtet sich an alle, die mit yonesty arbeiten: Mitarbeitend
 </div>
 
 
-# Der yonesty-Kreislauf
+# Das yonesty-Modell
 yonesty denkt Organisation nicht als starres Organigramm, sondern als lebendiges Zusammenspiel aus Prozessen, Rollen, Zielen, Fähigkeiten, Feedback und Aktivitäten. Prozesse zeigen, was in der Organisation getan wird. Rollen beschreiben, wer Verantwortung übernimmt. Ziele geben Orientierung. Fähigkeiten machen sichtbar, was Menschen und Teams brauchen. Feedback schafft Austausch. Aktivitäten machen Entwicklung konkret.
 
 <figure markdown="span"> <img src="/screenshots/yonesty-Modell.png">
