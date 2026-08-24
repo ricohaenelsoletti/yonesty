@@ -114,6 +114,24 @@ Lizenzkosten yonesty: 200 × 12,99 € × 12 = 31.176 €/Jahr
 * Amortisation: Die Jahreslizenz ist bereits nach ca. 6 Wochen verdient.
 * Pro-Kopf-Betrachtung: ~156 €/Person Lizenz stehen ~1.220 €/Person vermiedene Ineffizienzkosten (30 %-Fall) gegenüber.
 
+## Beide Rechnungen tabellarisch
+
+| # | Kostenblock (OHNE yonesty) | Konservative Annahme / Formel | Szenario 1: **16 Personen** (54 Prozesse) | Szenario 2: **200 Personen** (120 Prozesse) |
+|---|----------------------------|-------------------------------|------------------------------------------:|--------------------------------------------:|
+| 1 | Ziele vorbereiten, abstimmen, verhandeln, kommunizieren, anpassen, messen | Ziele × 3 Std × 60 €/Std (FK) | 14.400 € (80 Ziele) | 63.000 € (350 Ziele) |
+| 2 | Unklare Rollen (Reibung, Doppelarbeit) | MA × 0,75 Std/Mon × 12 × 34 € | 4.896 € | 61.200 € |
+| 3 | Unklare Prozesse (Suchen, Fehler, Medienbrüche) | MA × 1 Std/Mon × 12 × 34 € | 6.528 € | 81.600 € |
+| 4 | Bessere Feedbackkultur (Fluktuation vermeiden) | vermiedene Nachbesetzungen × 15.000 € | 7.500 € | 30.000 € |
+| 5 | Gezielte Weiterbildung (Streuverluste) | 800 €/MA × 15 % Streuverlust | 1.920 € | 24.000 € |
+| 6 | Überblick durch Matrizen (manuelle Auswertungen) | FK-Std/Mon × 12 × 60 € | 1.440 € | 4.320 € |
+| 7 | Schnelles Finden mit KI-Chatbot Yona | MA × 0,5 Std/Mon × 12 × 34 € | 3.264 € | 40.800 € |
+| **A** | **Summe Reibungskosten OHNE yonesty** | Summe 1–7 | **≈ 39.948 €** | **≈ 304.920 €** |
+| **B** | **yonesty-Lizenz** | Personen × 12,99 € × 12 | **2.494 €** | **31.176 €** |
+| **C** | **Netto-Nutzen p.a.** | A − B | **≈ 37.454 €** | **≈ 273.744 €** |
+| **D** | **ROI** | (A − B) / B | **≈ 1.502 %** | **≈ 878 %** |
+| **E** | **Nutzen je Mitarbeitendem/Jahr** | A / Personen | **≈ 2.497 €** | **≈ 1.525 €** |
+| **F** | **Amortisationszeit** | B / (A/12) | **≈ 0,75 Monate** | **≈ 1,2 Monate** |
+
 ## Noch nicht eingerechnet
 
 Folgende Bereiche sind schwer zu beziffern, aber oft die größten Hebel:
