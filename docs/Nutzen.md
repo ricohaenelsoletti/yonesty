@@ -85,7 +85,7 @@ Kompetenzmatrizen ersetzen Excel-Pflege und schaffen Planungssicherheit.
 * Amortisation: die Lizenzkosten sind nach ca. 15 Kalendertagen eingespielt
 * Nutzen je 1 € Lizenz: ca. 24 € Gegenwert
 
-## Rechnung 2 für größere Organisation (200 Personen, 120 Prozesse)
+## Rechnung 2: Nutzen für größere Organisation (200 Personen, 120 Prozesse)
 
 Annahme: 200 Personen, davon ~20 Führungskräfte, 120 Prozesse, ~150 Rollen. Gleiche konservative Sätze.
 
