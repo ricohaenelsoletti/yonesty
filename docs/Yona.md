@@ -10,6 +10,11 @@ Dabei ist Yona weder männlich noch weiblich. Yona ist eine digitale Unterstütz
 
 Yona kennt die Organisation, ihre Ziele, Rollen, Prozesse, Fähigkeiten, Teams, Verantwortlichkeiten und Aktivitäten. Dadurch können Fragen nicht nur beantwortet, sondern in ihrem organisatorischen Zusammenhang eingeordnet werden.
 
+<figure>
+    <img src="/screenshots/yonesty-Pyramide.png">
+    <figcaption>Ganz oben kann nun Yona glänzen und begeistern.</figcaption>
+</figure>
+
 ## Was macht Yona besonders?
 
 Yona arbeitet immer:
