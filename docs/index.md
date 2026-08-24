@@ -2,7 +2,9 @@
 yonesty unterstützt Organisationen dabei, Klarheit über Prozesse, Rollen, Verantwortlichkeiten, Ziele und Entwicklung zu schaffen. Die App verbindet organisatorische Strukturen mit konkreten Aufgaben im Alltag: Wer übernimmt welche Rolle? Welche Ziele verfolgen wir? Welche Fähigkeiten brauchen wir? Welches Feedback hilft weiter? Und welche nächsten Schritte entstehen daraus?
 Diese Dokumentation richtet sich an alle, die mit yonesty arbeiten: Mitarbeitende, Führungskräfte, Organisationsverantwortliche und Administratoren. Du kannst die Seiten von Anfang bis Ende lesen oder direkt in das Thema einsteigen, das du gerade brauchst.
 
-[![Was ist eigentlich yonesty?]([https://youtube.com](https://www.youtube.com/shorts/3SA76VYBPiM))](https://youtube.com)
+![Was ist eigentlich yonesty?]([https://youtube.com](https://www.youtube.com/shorts/3SA76VYBPiM))(https://youtube.com)
+![Anti-Trust - War Machine](https://www.youtube.com/watch?v=3CM1_Ji6fJ8)
+
 
 # Der yonesty-Kreislauf
 yonesty denkt Organisation nicht als starres Organigramm, sondern als lebendiges Zusammenspiel aus Prozessen, Rollen, Zielen, Fähigkeiten, Feedback und Aktivitäten. Prozesse zeigen, was in der Organisation getan wird. Rollen beschreiben, wer Verantwortung übernimmt. Ziele geben Orientierung. Fähigkeiten machen sichtbar, was Menschen und Teams brauchen. Feedback schafft Austausch. Aktivitäten machen Entwicklung konkret.
