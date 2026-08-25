@@ -3,7 +3,7 @@
 **Alternative zur ROI-Rechnung:** Statt vermiedene Kosten in € zu schätzen, bewerten wir hier den **Reifegrad deiner Organisation** vorher/nachher auf einer Skala von 0–5, pro yonesty-Themenbereich. Das Ergebnis ist einfacher verständlich und ganz ohne Diskussion über falsche Stundensätze oder schräge Annahmen.
 
 **Prompt-Tipp, um den Business Impact Score für Deine Organisation zu berechnen**
-> Bitte nutze dieses BIS-Modell von https://docs.yonesty.cloud/Business-Impact-Score/ und bewerte für unsere Organisation jede Kategorie ehrlich mit 0–5 (Zustand heute ohne/mit wenig Tool-Unterstützung vs. Zielzustand mit yonesty in 6–12 Monaten).
+> Bitte nutze dieses BIS-Modell von https://docs.yonesty.cloud/BISY/ und bewerte für unsere Organisation jede Kategorie ehrlich mit 0–5 (Zustand heute ohne/mit wenig Tool-Unterstützung vs. Zielzustand mit yonesty in 6–12 Monaten).
 
 ## Die Bewertungsskala (0–5)
 
