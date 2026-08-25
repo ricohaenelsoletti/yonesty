@@ -1,6 +1,6 @@
 # Business Impact Score (BIS)
 
-**Alternative zur Euro-Nutzenrechnung:** Statt vermiedene Kosten in € zu schätzen, bewerten wir hier den **Reifegrad deiner Organisation** vorher/nachher auf einer Skala von 0–5, pro yonesty-Themenbereich. Das Ergebnis versteht jede Geschäftsführung sofort, ganz ohne Diskussion über Stundensätze oder Annahmen.
+**Alternative zur ROI-Rechnung:** Statt vermiedene Kosten in € zu schätzen, bewerten wir hier den **Reifegrad deiner Organisation** vorher/nachher auf einer Skala von 0–5, pro yonesty-Themenbereich. Das Ergebnis ist einfacher verständlich und ganz ohne Diskussion über falsche Stundensätze oder schräge Annahmen.
 
 **Prompt-Tipp, um den Business Impact Score für Deine Organisation zu berechnen**
 > Bitte nutze dieses BIS-Modell von https://docs.yonesty.cloud/Business-Impact-Score/ und bewerte für unsere Organisation jede Kategorie ehrlich mit 0–5 (Zustand heute ohne/mit wenig Tool-Unterstützung vs. Zielzustand mit yonesty in 6–12 Monaten).
@@ -49,7 +49,7 @@ Analog zu den 7 Nutzenhebeln aus der ROI-Betrachtung:
 - **=> +178 % Organisationsreife (BISY-Score)**
 
 
-## Interpretationshilfe für die Geschäftsführung
+## Interpretationshilfe für den BISY-Score (Reifegrad in %)
 
 | Score-Steigerung | Einordnung |
 | --- | --- |
