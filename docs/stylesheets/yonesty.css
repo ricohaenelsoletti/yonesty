@@ -210,8 +210,11 @@
 
 /* Eckige Ecken */
 .md-typeset figure {
-  margin: 1rem 0;   /* oben/unten Abstand behalten, links/rechts auf 0 */
+  display: block;
+  width: 100%;
+  margin: 1rem 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 .md-typeset img {
@@ -226,9 +229,10 @@
 
 .md-typeset figcaption {
     display: block;
+    width: 100%;
     text-align: left;
-    font-style: italic;
     color: #57606a;
+    font-style: italic;
     font-size: 0.55rem;
     margin-top: 0.25rem;
     margin-left: 0;
