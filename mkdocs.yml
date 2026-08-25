@@ -31,8 +31,6 @@ nav:
       - Wichtige Begriffe: Wichtige-Begriffe.md
       - Organisation: Organisation.md
       - Personen und Teams: Personen-und-Teams.md
-      - Berechtigungen: Berechtigungen.md
-      - News: News.md
       - Rollen: Rollen.md
       - Prozesse: Prozesse.md
       - Ziele: Ziele.md
@@ -56,6 +54,8 @@ nav:
       - Nutzen-Rechnung (ROI): Nutzen.md
 
   - Administration:
+      - News: News.md
+      - Berechtigungen: Berechtigungen.md
       - Microsoft Azure Synchronisation Personen: Administration.md
 
 copyright: >
