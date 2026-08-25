@@ -38,6 +38,17 @@ Eine Führungskraft fragt:
 
 Yona berücksichtigt dabei die sichtbaren Ziele, Verantwortlichkeiten, Aktivitäten und Feedbacks der jeweiligen Organisationseinheit.
 
+### CEO
+
+Der CEO fragt zum Beispiel im Juni:
+
+> Wir haben Halbjahresmeeting und ich benötige als CEO eine gute Übersicht über alle Ziele und Erreichung nach Ampel Gelb, Grün und Rot. Bitte erstelle mir einen schnellen Überblick, damit ich gut vorbereitet bin und Ideen entwickeln kann, wie wir unsere Ziele noch erreichen können."
+
+<figure>
+    <img src="/screenshots/yonesty-Yona-CEO-Prompt.png">
+    <figcaption>Yona unterstützt bei der Vorbereitung von Ziele Gesprächen (zum Beispiel im OKR Zyklus)</figcaption>
+</figure>
+
 ### Mitarbeiter
 
 Ein Mitarbeiter fragt:
