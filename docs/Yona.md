@@ -63,6 +63,11 @@ Ein Mitarbeiter fragt:
 
 Yona betrachtet die für diese Person sichtbaren Aktivitäten, Rollen und Ziele.
 
+<figure>
+    <img src="/screenshots/yonesty-Yona-Markus-Schichtleiter.png">
+    <figcaption>Yona hilft Mitarbeitenden in ihrer Rolle und nächsten Schritten, hier am Beispiel von Markus Adler, Schichtleiter bei der Hammer und Nagel GmbH</figcaption>
+</figure>
+
 ### Administrator
 
 Ein Administrator fragt:
