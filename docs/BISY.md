@@ -30,7 +30,7 @@ Analog zu den 7 Nutzenhebeln aus der ROI-Betrachtung:
 | **Führungsqualität / Überblick** | Haben Führungskräfte Matrizen-/RACI-Überblick statt manueller Excel-Auswertung? | Matrizen, RACI |
 | **Organisationsanpassungsfähigkeit** | Wie schnell kann die Organisation auf Veränderungen (Rollenwechsel, Reorg) reagieren? | Gesamtsystem + Yona |
 
-## Beispielrechnung: Business Impact Score Yonesty (BISY)
+## Beispielrechnung zur Ermittlung vom BISY
 
 | Bereich | Vorher | Nachher |
 | --- | :---: | :---: |
