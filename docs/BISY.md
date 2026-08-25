@@ -30,7 +30,7 @@ Analog zu den 7 Nutzenhebeln aus der ROI-Betrachtung:
 | **Führungsqualität / Überblick** | Haben Führungskräfte Matrizen-/RACI-Überblick statt manueller Excel-Auswertung? | Matrizen, RACI |
 | **Organisationsanpassungsfähigkeit** | Wie schnell kann die Organisation auf Veränderungen (Rollenwechsel, Reorg) reagieren? | Gesamtsystem + Yona |
 
-## Beispielrechnung zur Ermittlung vom BISY
+## Beispielrechnung
 
 | Bereich | Vorher | Nachher |
 | --- | :---: | :---: |
@@ -49,7 +49,8 @@ Analog zu den 7 Nutzenhebeln aus der ROI-Betrachtung:
 - **=> +178 % Organisationsreife (BISY-Score)**
 
 
-## Interpretationshilfe für den BISY-Score (Reifegrad in %)
+## Interpretationshilfe
+Was sagt der BISY-Score (Reifegrad in %) aus?
 
 | Score-Steigerung | Einordnung |
 | --- | --- |
