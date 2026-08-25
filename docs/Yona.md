@@ -1,16 +1,12 @@
 # Wer ist Yona?
 
 <figure>
-    <img src="/assets/Yona-Icon.png" width="50px">
+    <img src="/assets/Yona-Icon.png" width="20px" margin="left">
 </figure>
 
-> Yona ist die intelligente Orientierungshilfe in yonesty. Immer kontextbezogen, immer rollenabhängig und immer innerhalb der verfügbaren Zugriffsrechte.
-
-Yona ist der intelligente Assistent in yonesty.
+Yona ist die intelligente Orientierungshilfe in yonesty. Immer kontextbezogen, immer rollenabhängig und immer innerhalb der verfügbaren Zugriffsrechte.
 
 Yona unterstützt Menschen in allen Rollen dabei, sich in ihrer Organisation besser zurechtzufinden, Zusammenhänge zu verstehen und fundierte Entscheidungen zu treffen.
-
-Dabei ist Yona weder männlich noch weiblich. Yona ist eine digitale Unterstützung, die Wissen, Zusammenhänge und relevante Informationen aus yonesty zugänglich macht.
 
 Yona kennt die Organisation, ihre Ziele, Rollen, Prozesse, Fähigkeiten, Teams, Verantwortlichkeiten und Aktivitäten. Dadurch können Fragen nicht nur beantwortet, sondern in ihrem organisatorischen Zusammenhang eingeordnet werden.
 
