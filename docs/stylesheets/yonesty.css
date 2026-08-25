@@ -209,6 +209,11 @@
    ----------------------------------------------------------- */
 
 /* Eckige Ecken */
+.md-typeset figure {
+  margin: 1rem 0;   /* oben/unten Abstand behalten, links/rechts auf 0 */
+  padding: 0;
+}
+
 .md-typeset img {
    display: block;
    border-radius: 0px;
@@ -226,6 +231,7 @@
     color: #57606a;
     font-size: 0.55rem;
     margin-top: 0.25rem;
+    margin-left: 0;
 }
 /* -----------------------------------------------------------
    FOOTER
