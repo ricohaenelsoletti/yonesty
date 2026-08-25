@@ -13,7 +13,7 @@
 
 <figure>
     <img src="/screenshots/yonesty-Nutzen-ROI.png">
-    <figcaption>Zwei Diagramme, eine Aussage zum Nutzen: Die Lizenzkosten übersteigen den Nutzen frühzeitig.</figcaption>
+    <figcaption>Zwei Diagramme, eine Aussage zum Nutzen: Die Lizenzkosten übersteigen den Nutzen frühzeitig. Voraussetzung dafür ist natürlich die Nutzung des vollen Umfangs. Bei schrittweiser Einführung verschiebt sich der Break Even Punkt, wenn der Nutzen die Kosten übersteigt.</figcaption>
 </figure>
 
 ## Rechnung 1: Nutzen für kleine Organisationen (16 Mitarbeitende, 54 Prozesse)
