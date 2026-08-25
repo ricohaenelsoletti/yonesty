@@ -20,13 +20,13 @@ Genau das verlangen Normen und Auditoren als Nachweis. yonesty liefert den belas
 
 | Compliance-Thema | yonesty-Baustein | Nutzen im Audit |
 |------------------|------------------|-----------------|
-| **Rollen & Verantwortlichkeiten** | Rollen, RACI-Matrix (R/A/C/I je Prozess) | Klarer, dokumentierter Nachweis: *Wer ist verantwortlich bzw. rechenschaftspflichtig?* Eine zentrale Anforderung bei ISO 9001, ISO 27001, NIS2 und DSGVO. |
-| **Prozesse & Standards** | Prozesse, Prozessgruppen, In-/Output, Lieferant/Kunde | Dokumentierte und versionierte Prozesslandschaft als Nachweis für die Prozessorientierung nach ISO 9001. |
-| **Kontroll- & Entscheidungsmechanismen** | RACI (Accountable = Entscheider), Erwartungen, Ziele | Freigabe-, Kontroll- und Eskalationswege werden transparent dargestellt. |
-| **Leitplanken & Richtlinien** | Erwartungen, Rollenbeschreibungen, Skills | Interne Richtlinien und Kompetenzanforderungen sind Rollen und Prozessen eindeutig zugeordnet. |
-| **Kompetenz- & Befähigungsnachweis** | Skills, Rollen-Skill-Zuordnung | Nachweis erforderlicher Kompetenzen gemäß ISO 9001 Kapitel 7.2 sowie ISO 27001. |
-| **Ziele & Wirksamkeit** | Ziele (zugewiesen und verantwortlich), Feedback-Templates | Nachweis der kontinuierlichen Verbesserung im Sinne des PDCA-Zyklus und der ISO-Anforderungen. |
-| **Nachvollziehbarkeit & Historie** | `createdAt`, `updatedAt`, Status (*draft → published → outdated*) | Änderungsverlauf und Versionsstände dienen als Audit-Trail. |
+| **Rollen und Verantwortlichkeiten** | Rollen, RACI-Matrix (R/A/C/I je Prozess) | Klarer, dokumentierter Nachweis: *Wer ist verantwortlich bzw. rechenschaftspflichtig?* Eine zentrale Anforderung bei ISO 9001, ISO 27001, NIS2 und DSGVO. |
+| **Prozesse und Standards** | Prozesse, Prozessgruppen, In-/Output, Lieferant/Kunde | Dokumentierte und versionierte Prozesslandschaft als Nachweis für die Prozessorientierung nach ISO 9001. |
+| **Kontroll- und Entscheidungsmechanismen** | RACI (Accountable = Entscheider), Erwartungen, Ziele | Freigabe-, Kontroll- und Eskalationswege werden transparent dargestellt. |
+| **Leitplanken und Richtlinien** | Erwartungen, Rollenbeschreibungen, Skills | Interne Richtlinien und Kompetenzanforderungen sind Rollen und Prozessen eindeutig zugeordnet. |
+| **Kompetenz- und Befähigungsnachweis** | Skills, Rollen-Skill-Zuordnung | Nachweis erforderlicher Kompetenzen gemäß ISO 9001 Kapitel 7.2 sowie ISO 27001. |
+| **Ziele und Wirksamkeit** | Ziele (zugewiesen und verantwortlich), Feedback-Templates | Nachweis der kontinuierlichen Verbesserung im Sinne des PDCA-Zyklus und der ISO-Anforderungen. |
+| **Nachvollziehbarkeit und Historie** | `createdAt`, `updatedAt`, Status (*draft → published → outdated*) | Änderungsverlauf und Versionsstände dienen als Audit-Trail. |
 
 ## Zuordnung zu relevanten Normen und Regelwerken
 
