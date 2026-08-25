@@ -3,6 +3,11 @@ Du musst yonesty nicht vollständig einrichten, bevor der erste Nutzen entsteht.
 
 Die wichtigste Empfehlung lautet: Starte nicht mit allem gleichzeitig. Wähle einen sinnvollen Einstieg, zum Beispiel ein Team, einen Prozessbereich, einen Zielschwerpunkt oder einen Feedbackprozess. Entscheidend ist, dass die ersten Daten nicht isoliert bleiben, sondern direkt so verknüpft werden, dass ein spürbarer Nutzen im Alltag entsteht.
 
+<figure>
+    <img src="/screenshots/yonesty-Startpfade.png">
+    <figcaption>Den Think BIG, start small Ansatz mit yonesty fahren.</figcaption>
+</figure>
+
 ## Startpfad 1: Rollen und Verantwortung klären
 Dieser Startpfad passt, wenn in der Organisation unklar ist, wer wofür verantwortlich ist oder Rollen zwar existieren, aber nicht sauber beschrieben sind. Beginne mit Personen, Teams und Rollen. Beschreibe anschließend, welche Verantwortung hinter einer Rolle steckt, und verbinde die Rolle mit relevanten Prozessen und Fähigkeiten.
 
