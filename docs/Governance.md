@@ -48,10 +48,10 @@ yonesty deckt die Organisations-, Prozess- und Verantwortungsebene ab, nicht die
 
 * Dokumentenlenkung im engeren Sinn (Versionierung von Richtliniendokumenten, Freigabeworkflows für Dokumente, Archivierung) → DMS
 * Technische Sicherheitsmaßnahmen (ISO 27001 Annex A technische Controls: Verschlüsselung, Logging, Zugriffssysteme, Backups) → ISMS/IT-Tools
-* Risikomanagement-Register & Risikobewertung (Risikoanalyse, Behandlungspläne) → GRC-Tool
+* Risikomanagement-Register und Risikobewertung (Risikoanalyse, Behandlungspläne) → GRC-Tool
 * Auditmanagement selbst (Auditplanung, Findings, Maßnahmenverfolgung, Nachweisablage) → GRC/Audit-Tool
 * DSGVO-Kern-Nachweise: Verarbeitungsverzeichnis (Art. 30), DSFA, Betroffenenrechte-Prozesse inhaltlich, Auftragsverarbeiterverträge → Datenschutz-Tools
-* NIS2/technische Vorfallmeldungen & Monitoring (Incident Detection, Meldefristen-Handling) → SIEM/SOC
+* NIS2/technische Vorfallmeldungen und Monitoring (Incident Detection, Meldefristen-Handling) → SIEM/SOC
 * Messwerte/Evidenzen (konkrete Logs, Prüfprotokolle, Zertifikate als Artefakte)
 
 yonesty beantwortet zuverlässig „Wer ist verantwortlich, in welchem Prozess, mit welcher Kompetenz?" – die technischen und dokumentarischen Beweisartefakte liefern die angebundenen Fachsysteme. Über die API greifen beide Welten ineinander.
