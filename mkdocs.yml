@@ -29,7 +29,6 @@ nav:
 
   - Basismerkmale:
       - Wichtige Begriffe: Wichtige-Begriffe.md
-      - Organisation: Organisation.md
       - Personen und Teams: Personen-und-Teams.md
       - Rollen: Rollen.md
       - Prozesse: Prozesse.md
@@ -55,6 +54,7 @@ nav:
       - Business Impact Score Yonesty (BISY): BISY.md
 
   - Administration:
+      - Organisation: Organisation.md
       - News: News.md
       - Berechtigungen: Berechtigungen.md
       - Microsoft Azure Synchronisation Personen: Administration.md
