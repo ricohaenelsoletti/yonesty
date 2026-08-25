@@ -38,6 +38,12 @@ Eine Führungskraft fragt:
 
 Yona berücksichtigt dabei die sichtbaren Ziele, Verantwortlichkeiten, Aktivitäten und Feedbacks der jeweiligen Organisationseinheit.
 
+<figure>
+    <img src="/screenshots/yonesty-Yona-Teamleiter.png">
+    <figcaption>Yona unterstützt auch Teamleiter (hier im Beispiel Julian, Marketing Leiter) bei der Steuerung Ihrer Teams und Teamziele</figcaption>
+</figure>
+
+
 ### CEO
 
 Der CEO fragt zum Beispiel im Juni:
