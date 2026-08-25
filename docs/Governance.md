@@ -43,6 +43,19 @@ yonesty ist **kein isolierter Silo**. Durch die API-Architektur lässt sich yone
 - yonesty zum Beispiel als "Single Source of Truth" für Rollen, Verantwortlichkeiten und Prozesse
 - Automatisierte Audit-Reports und Exporte sind mit Yona möglich, anstelle manueller Datensammlungen
 
+## Grenzen: Wo yonesty (allein) NICHT unterstützt
+yonesty deckt die Organisations-, Prozess- und Verantwortungsebene ab, nicht die technischen/dokumentenspezifischen Nachweise. Konkret nicht abgedeckt:
+
+* Dokumentenlenkung im engeren Sinn (Versionierung von Richtliniendokumenten, Freigabeworkflows für Dokumente, Archivierung) → DMS
+* Technische Sicherheitsmaßnahmen (ISO 27001 Annex A technische Controls: Verschlüsselung, Logging, Zugriffssysteme, Backups) → ISMS/IT-Tools
+* Risikomanagement-Register & Risikobewertung (Risikoanalyse, Behandlungspläne) → GRC-Tool
+* Auditmanagement selbst (Auditplanung, Findings, Maßnahmenverfolgung, Nachweisablage) → GRC/Audit-Tool
+* DSGVO-Kern-Nachweise: Verarbeitungsverzeichnis (Art. 30), DSFA, Betroffenenrechte-Prozesse inhaltlich, Auftragsverarbeiterverträge → Datenschutz-Tools
+* NIS2/technische Vorfallmeldungen & Monitoring (Incident Detection, Meldefristen-Handling) → SIEM/SOC
+* Messwerte/Evidenzen (konkrete Logs, Prüfprotokolle, Zertifikate als Artefakte)
+
+yonesty beantwortet zuverlässig „Wer ist verantwortlich, in welchem Prozess, mit welcher Kompetenz?" – die technischen und dokumentarischen Beweisartefakte liefern die angebundenen Fachsysteme. Über die API greifen beide Welten ineinander.
+
 ## Nachricht an den Compliance Officer
 
 > yonesty liefert strukturierte, aktuelle und exportierbare Nachweise zu Rollen, Verantwortlichkeiten (RACI), Prozessen, Kompetenzen und Zielen. Damit wird yonesty zum zentralen organisatorischen Nachweisbaustein in Zertifizierungen und Audits und ist durch die API-Architektur nahtlos in Ihre bestehende Compliance-Landschaft integrierbar.
