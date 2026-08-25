@@ -30,29 +30,10 @@ Genau das verlangen Normen und Auditoren als Nachweis. yonesty liefert den belas
 
 ## Zuordnung zu relevanten Normen und Regelwerken
 
-1. **ISO 9001**
-   - Prozesslandschaft
-   - RACI-Matrix
-   - Kompetenzen
-   - Ziele
-   - Kontinuierliche Verbesserung
-
-2. **ISO 27001 / NIS2**
-   - Klare Verantwortlichkeiten für Informationssicherheit
-   - Accountable-Rollen
-   - Prozessnachweise
-   - Rollenbasierte Zuständigkeiten
-
-3. **DSGVO**
-   - Dokumentierte Verantwortlichkeiten
-   - Transparente Entscheidungswege
-   - Prozesse mit definierten In-/Outputs
-
-4. **Betriebsvereinbarungen und interne Richtlinien**
-   - Als Erwartungen und Rollenbeschreibungen hinterlegt
-   - Eindeutig den Beteiligten zugeordnet
-
----
+* ISO 9001: Prozesslandschaft, RACI-Matrix, Kompetenzen, Ziele, Kontinuierliche Verbesserung
+* ISO 27001 / NIS2: Klare Verantwortlichkeiten für Informationssicherheit, Accountable-Rollen, Prozessnachweise, Rollenbasierte Zuständigkeiten
+* DSGVO: Dokumentierte Verantwortlichkeiten, Transparente Entscheidungswege, Prozesse mit definierten In-/Outputs
+* Betriebsvereinbarungen und interne Richtlinien: Als Erwartungen und Rollenbeschreibungen hinterlegt, eindeutig den Beteiligten zugeordnet
 
 ## Der entscheidende Vorteil: Offenes System
 
