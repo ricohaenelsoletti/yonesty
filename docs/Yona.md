@@ -1,7 +1,7 @@
 # Wer ist Yona?
 
 <figure>
-    <img src="/assets/Yona-Icon.png" width="20px" margin="left">
+    <img src="/assets/Yona-Icon.png" width="50px" margin="left">
 </figure>
 
 Yona ist die intelligente Orientierungshilfe in yonesty. Immer kontextbezogen, immer rollenabhängig und immer innerhalb der verfügbaren Zugriffsrechte.
