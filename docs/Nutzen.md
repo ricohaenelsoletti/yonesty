@@ -9,6 +9,13 @@
 >
 > Anzahl Prozesse: <Zahl eingeben>
 
+## Diagramm Zusammenfassung
+
+<figure>
+    <img src="/screenshots/yonesty-Nutzen-ROI.png">
+    <figcaption>Zwei Diagramme, eine Aussage zum Nutzen: Die Lizenzkosten übersteigen den Nutzen frühzeitig.</figcaption>
+</figure>
+
 ## Rechnung 1: Nutzen für kleine Organisationen (16 Mitarbeitende, 54 Prozesse)
 
 Wir nutzen das Demounternehmen Hammer und Nagel GmbH für die Berechnung.
