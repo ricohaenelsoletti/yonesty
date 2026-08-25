@@ -28,7 +28,7 @@ Dadurch erhalten unterschiedliche Personen unterschiedliche Antworten, obwohl si
 
 Yona zeigt ausschließlich Informationen an, auf die die jeweilige Person Zugriff hat.
 
-## Beispiele
+## Anwendungsbeispiele
 
 ### Führungskraft
 
