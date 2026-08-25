@@ -1,4 +1,4 @@
-# Business Impact Score (BIS)
+# Business Impact Score für yonesty (BISY) ;-)
 
 **Alternative zur ROI-Rechnung:** Statt vermiedene Kosten in € zu schätzen, bewerten wir hier den **Reifegrad deiner Organisation** vorher/nachher auf einer Skala von 0–5, pro yonesty-Themenbereich. Das Ergebnis ist einfacher verständlich und ganz ohne Diskussion über falsche Stundensätze oder schräge Annahmen.
 
@@ -30,7 +30,7 @@ Analog zu den 7 Nutzenhebeln aus der ROI-Betrachtung:
 | **Führungsqualität / Überblick** | Haben Führungskräfte Matrizen-/RACI-Überblick statt manueller Excel-Auswertung? | Matrizen, RACI |
 | **Organisationsanpassungsfähigkeit** | Wie schnell kann die Organisation auf Veränderungen (Rollenwechsel, Reorg) reagieren? | Gesamtsystem + Yona |
 
-## Beispielrechnung: Business Impact Score Yonesty (BISY)  ;-)
+## Beispielrechnung: Business Impact Score Yonesty (BISY)
 
 | Bereich | Vorher | Nachher |
 | --- | :---: | :---: |
