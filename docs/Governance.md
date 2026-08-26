@@ -63,7 +63,7 @@ yonesty beantwortet zuverlässig „Wer ist verantwortlich, in welchem Prozess, 
 
 ## ISO 9001 mit yonesty
 
-yonesty unterstützt die Anforderungen der ISO 9001 nicht als isoliertes QM-Werkzeug, sondern als **Navigationssystem für Organisationen**.
+yonesty unterstützt die Anforderungen der ISO 9001 als **Navigationssystem für Organisationen**.
 
 Während klassische QM-Handbücher vor allem den Ist-Zustand dokumentieren, verbindet yonesty Organisation, Rollen, Prozesse, Ziele, Fähigkeiten, Feedbacks und Aktivitäten zu einem lebendigen Managementsystem.
 
