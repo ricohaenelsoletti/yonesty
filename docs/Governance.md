@@ -59,3 +59,41 @@ yonesty beantwortet zuverlässig „Wer ist verantwortlich, in welchem Prozess, 
 ## Nachricht an den Compliance Officer
 
 > yonesty liefert strukturierte, aktuelle und exportierbare Nachweise zu Rollen, Verantwortlichkeiten (RACI), Prozessen, Kompetenzen und Zielen. Damit wird yonesty zum zentralen organisatorischen Nachweisbaustein in Zertifizierungen und Audits und ist durch die API-Architektur nahtlos in Ihre bestehende Compliance-Landschaft integrierbar.
+
+
+## ISO 9001 mit yonesty
+
+yonesty unterstützt die Anforderungen der ISO 9001 nicht als isoliertes QM-Werkzeug, sondern als **Navigationssystem für Organisationen**.
+
+Während klassische QM-Handbücher vor allem den Ist-Zustand dokumentieren, verbindet yonesty Organisation, Rollen, Prozesse, Ziele, Fähigkeiten, Feedbacks und Aktivitäten zu einem lebendigen Managementsystem.
+
+Wenn die relevanten Informationen in yonesty gepflegt werden, kann yonesty als digitale Beschreibung des Managementsystems und somit als digitales QM-Handbuch nach ISO 9001 genutzt werden. Dabei geht es nicht nur um Transparenz über den aktuellen Zustand, sondern vor allem um die aktive Steuerung und kontinuierliche Verbesserung der Organisation.
+
+### ISO-9001-Checkliste für yonesty
+
+| Audit-Thema | Abdeckung | Hinweis / Handlungsempfehlung |
+|------------|------------|------------|
+| Kontext der Organisation | ✅ Ja | Organisationsbeschreibung in yonesty pflegen. [Organisation](https://docs.yonesty.cloud/Organisation/) |
+| Beschreibung des Managementsystems (QM-Handbuch) | ✅ Ja | yonesty dient als zentrale Beschreibung von Organisation, Rollen, Prozessen, Zielen und Verantwortlichkeiten. |
+| Qualitätspolitik | ✅ Ja | In der Organisationsbeschreibung dokumentieren und zusätzlich als strategische Ziele hinterlegen. [Organisation](https://docs.yonesty.cloud/Organisation/) · [Ziele](https://docs.yonesty.cloud/Ziele/) |
+| Rollen und Verantwortlichkeiten | ✅ Ja | Über Rollenmodell, Verantwortlichkeiten und RACI-Matrizen abbildbar. [Rollen](https://docs.yonesty.cloud/Rollen/) ·  [Rollen mit Prozessen verbinden (Verantwortlichkeiten definieren)](https://docs.yonesty.cloud/Leistungsmerkmal-Rollen-mit-Prozessen-verbinden/) |
+| Qualitätsziele | ✅ Ja | Qualitätsziele als eigene Zielart oder per Tag `#Qualität` / `#ISO9001` kennzeichnen. [Ziele](https://docs.yonesty.cloud/Ziele/) |
+| KPI- und Kennzahlenmanagement | ✅ Ja | Kennzahlen direkt an Zielen hinterlegen und regelmäßig bewerten. [Ziele](https://docs.yonesty.cloud/Ziele/) |
+| Prozessmanagement | ✅ Ja | Prozesse mit SIPOC, Rollen, Dokumenten, Anwendungen und Zielen beschreiben. [Prozesse](https://docs.yonesty.cloud/Prozesse/) |
+| Operative Prozesssteuerung | ✅ Ja | Mitarbeitende erhalten Zugriff auf relevante Prozesse, Rollen und Verantwortlichkeiten. YONA unterstützt bei Verständnisfragen. |
+| Reklamationsmanagement | ✅ Ja | Reklamationsprozess beschreiben, Verantwortlichkeiten definieren und externe Ticketsysteme referenzieren. [Prozesse](https://docs.yonesty.cloud/Prozesse/) |
+| Korrektur- und Verbesserungsmaßnahmen | ✅ Ja | Maßnahmen über Aktivitäten steuern und nachverfolgen. [Aktivitäten](https://docs.yonesty.cloud/Aktivit%C3%A4ten-Your-Next-Steps/) |
+| Kompetenzmanagement | ✅ Ja | Fähigkeiten, Entwicklungsziele, Weiterbildungen und Maßnahmen verwalten. [Fähigkeiten, Erwartungen und Gefühle](https://docs.yonesty.cloud/Faehigkeiten-Erwartungen-und-Gefuehle/) · [Aktivitäten](https://docs.yonesty.cloud/Aktivit%C3%A4ten-Your-Next-Steps/) |
+| Wissensmanagement | ✅ Ja | Organisationswissen, Rollen, Prozesse und Fähigkeiten miteinander verknüpfen. |
+| Kontinuierliche Verbesserung (KVP) | ✅ Ja | Feedbacks führen zu Aktivitäten und Verbesserungen. |
+| Änderungsmanagement | ✅ Ja | Änderungen an Prozessen können kommuniziert werden. Empfehlung: sichtbares Changelog mit Änderungsdatum, Bearbeiter und Notiz ergänzen. |
+| Risikomanagement | 🟡 Teilweise | Risiken können über Ziele, Prozesse und Aktivitäten dokumentiert werden. Eigener Objekttyp „Risiko“ wäre sinnvoll. |
+| Dokumentierte Information | 🟡 Teilweise | Inhalte sind dokumentiert. Versionshistorie und Freigabestatus würden die Nachvollziehbarkeit erhöhen. |
+| Dokumentenlenkung | 🟡 Teilweise | Dokumente können referenziert werden. Formale Versionierung wäre eine sinnvolle Erweiterung. |
+| Interne Audits | ✅ Ja | Audit als Feedbacktyp modellieren und mit Rollen, Prozessen, Zielen und Fähigkeiten verbinden. |
+| Auditmaßnahmen | ✅ Ja | Aus Audit-Feedbacks Aktivitäten mit Verantwortlichen und Wirksamkeitsprüfung ableiten. |
+| Management Review | ✅ Ja | Ziele, KPIs, Prozesse, Audits, Feedbacks und Aktivitäten bilden die Grundlage für Reviews. |
+| Lieferantenmanagement | 🟡 Teilweise | Lieferanten können modelliert werden. Eigene Lieferantenbewertungen wären eine mögliche Erweiterung. |
+| Kundenorientierung | ✅ Ja | Kundenanforderungen können über Ziele, Prozesse, Rollen und Reklamationsprozesse abgebildet werden. |
+
+> Fazit: Die wesentlichen organisatorischen Anforderungen der ISO 9001 werden durch yonesty bereits abgedeckt. Die wenigen offenen Punkte betreffen überwiegend zusätzliche Nachweis- und Komfortfunktionen, nicht die eigentliche Steuerung des Managementsystems.
