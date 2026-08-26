@@ -1,6 +1,6 @@
 # Goverance
 
-Okay, wir geben zu: Das Thema Governance unter "Begeisterungsmerkmale" zu positionieren ist schon ein wenig gewagt. Aber hier alle Informationen, wie yonesty trotz eines Audits und Vorgaben tatkräftig unterstützt.
+Okay, wir geben zu: Das Thema Governance unter "Begeisterungsmerkmale" zu positionieren ist schon ein wenig gewagt. Deswegen folgen hier alle Informationen, wie yonesty Audits und Vorgaben tatkräftig unterstützt.
 
 Governance umfasst für uns:
 
