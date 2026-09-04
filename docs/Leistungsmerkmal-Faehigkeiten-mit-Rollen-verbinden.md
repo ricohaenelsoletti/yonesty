@@ -1,9 +1,11 @@
 # Leistungsmerkmal: Fähigkeiten mit Rollen verbinden
 
+
 <figure>
-    <img src="/screenshots/yonesty-Faehigkeiten-Rollen-Matrix.png">
-    <figcaption>Die Hammer und Nagel GmbH Überblick aller notwendiger Fähigkeiten in den jeweiligen Rollen (Gefiltert)</figcaption>
+    <img src="/screenshots/yonesty-x-Faehigkeiten-Rollen.png">
+    <figcaption>Eine Rolle ist mehr als ein Titel. Sie beschreibt, was jemand können muss, um sie auszufüllen</figcaption>
 </figure>
+
 
 ## Warum ist es so wichtig, Fähigkeiten (Skills) mit Rollen zu verbinden?
 Das ist das Kernkonzept von yonesty.
@@ -19,6 +21,11 @@ Eine Rolle ist mehr als ein Titel. Sie beschreibt, was jemand können muss, um s
 5. Ehrlichkeit als Führungsinstrument: Und das ist der wertvollste Teil: Wenn ein nächster Karriereschritt in eine Rolle noch nicht machbar ist, kann das fair und ehrlich begründet werden, anhand eines konkreten Skill Gaps, nicht anhand subjektiver Meinungen. Das nimmt dem schwierigen Gespräch die Willkür und ersetzt sie durch Transparenz und einen Entwicklungspfad:
 
 > „Das fehlt dir noch – und so kommst du dorthin."
+
+<figure>
+    <img src="/screenshots/yonesty-Faehigkeiten-Rollen-Matrix.png">
+    <figcaption>Die Hammer und Nagel GmbH Überblick aller notwendiger Fähigkeiten in den jeweiligen Rollen (Gefiltert)</figcaption>
+</figure>
 
 ## Das übergeordnete Ziel
 
