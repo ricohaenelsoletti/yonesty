@@ -1,5 +1,12 @@
 # Leistungsmerkmal: Ziele mit Verantwortlichen verbinden
 
+
+
+<figure>
+    <img src="/screenshots/yonesty-x-Ziele-Personen.png">
+    <figcaption>Ohne eine namentlich verantwortliche Person entsteht ein Vakuum</figcaption>
+</figure>
+
 ## Warum Ziele mit verantwortlichen Personen (Namen) verbinden?
 Das ist eine grundlegende Frage der Organisations- und Führungslogik. Hier die wichtigsten Gründe, Nutzen und Ziele:
 
