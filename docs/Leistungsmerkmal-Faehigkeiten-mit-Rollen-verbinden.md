@@ -1,5 +1,10 @@
 # Leistungsmerkmal: Fähigkeiten mit Rollen verbinden
 
+<figure>
+    <img src="/screenshots/Faehigkeiten-Rollen-Matrix.png">
+    <figcaption>Die Hammer und Nagel GmbH Überblick aller notwendiger Fähigkeiten in den jeweiligen Rollen (Gefiltert)</figcaption>
+</figure>
+
 ## Warum ist es so wichtig, Fähigkeiten (Skills) mit Rollen zu verbinden?
 Das ist das Kernkonzept von yonesty.
 
@@ -24,6 +29,36 @@ Eine Rolle ist mehr als ein Titel. Sie beschreibt, was jemand können muss, um s
 * Planbarkeit:	Weiterbildung und Aktivitäten folgen einem klaren Pfad
   
 Zusammengefasst: Skills mit Rollen zu verbinden macht aus Karriere ein System statt eines Glücksspiels. Es schafft eine ehrliche Grundlage, auf der sich Menschen entwickeln können. Der nächste Schritt wird sichtbar, messbar und erreichbar.
+
+## Wichtig: Personen mit Fähigkeiten (Skills) verknüpfen
+
+### Was passiert da?
+Jede Person verfügt über ein Profil **eigener Fähigkeiten** – jeweils mit einem konkreten **Skill-Level**.
+
+### Wie geht das genau?
+- Einer Person werden vorhandene Skills und deren aktuelles Level zugeordnet.
+- Diese Skills lassen sich mit den Skill-Anforderungen einer Rolle abgleichen.
+- Die Festlegung des echten Skill-Levels erfolgt über Feedbackgespräche und Eigen-/Fremdeinschätzung und einer Einigung. Dieses Level ist der Startpunkt für die Weiterentwicklung.
+
+### Warum ist das wichtig? Wozu ist das gut?
+- Passung sichtbar machen: Wer bringt für welche Rolle die richtigen Fähigkeiten mit?
+- Grundlage für gezielte und ehrliche Entwicklung und Kapazitätsplanung.
+
+---
+
+## Der Kerngedanke: „Your next step with honesty“
+
+Will eine Person eine Rolle übernehmen, sollten die grundsätzlichen Fähigkeiten dafür bereits vorhanden sein. Der Abgleich läuft so:
+
+> **Skills der Rolle (Soll)** ⟷ **Skills der Person (Ist)**
+
+Zeigt dieser Vergleich eine **Lücke**, wird daraus ein konkreter Entwicklungsauftrag:
+
+- Es ist Aufgabe der Führungskraft, die noch fehlenden Fähigkeiten zu fördern oder das Skill-Level einer bereits vorhandenen Fähigkeit weiterzuentwickeln.
+- Das geschieht gezielt über Feedbackgespräche und Aktivitäten.
+
+So wird aus einem statischen Rollenprofil ein **lebendiger Entwicklungspfad** – ehrlich, nachvollziehbar und Schritt für Schritt.
+
 
 ## Hands On Demo in der Hammer und Nagel GmbH
 
