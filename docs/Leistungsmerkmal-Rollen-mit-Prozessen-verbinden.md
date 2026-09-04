@@ -1,9 +1,10 @@
 # Leistungsmerkmal: Rollen mit Prozessen verbinden
 
 <figure>
-    <img src="/screenshots/yonesty-RACI.png">
-    <figcaption>Die Verbindung von Rollen und Prozessen führt zur Verantwortlichkeitsmatrix RACI.</figcaption>
+    <img src="/screenshots/yonesty-Rollen-Prozesse.png">
+    <figcaption>Rollen sind mit Prozessen über Verantwortlichkeiten verknüpft: Welche Rolle übernimmt Verantwortung, wer arbeitet zu?</figcaption>
 </figure>
+
 
 ## Warum ist die Verbindung von Rollen mit Prozessen so wichtig?
 
@@ -15,6 +16,11 @@ Wenn Rollen mit Prozessen verknüpft sind, wird eindeutig sichtbar, wer für wel
 * Das klassische „Ich dachte, das machst du!"
 
 Häufig wird hier das RACI-Prinzip genutzt (Responsible, Accountable, Consulted, Informed), um die verschiedenen Beteiligungsarten pro Prozessschritt klar zu definieren. Es können auch andere Methoden genutzt werden, beispielsweise CLEAR für die Digitale Transformation mit (Contribute, Lead, Execute, Approve und Review)
+
+<figure>
+    <img src="/screenshots/yonesty-RACI.png">
+    <figcaption>Die Verbindung von Rollen und Prozessen führt zur Verantwortlichkeitsmatrix RACI.</figcaption>
+</figure>
 
 ### 2. Unabhängigkeit von einzelnen Personen
 Rollen sind nicht an konkrete Personen gebunden, sondern beschreiben Funktionen. Das bedeutet:
