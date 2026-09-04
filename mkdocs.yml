@@ -39,6 +39,7 @@ nav:
       - Suche, Filtern, Teilen, Export: Suche-Filtern-Teilen-Export.md
   
   - Leistungsmerkmale:
+      - Personen mit Rollen verbinden: Leistungsmerkmal-Personen-mit-Rollen-verbinden.md
       - Rollen mit Prozessen verbinden: Leistungsmerkmal-Rollen-mit-Prozessen-verbinden.md
       - Prozesse mit Zielen verbinden: Leistungsmerkmal-Prozesse-mit-Zielen-verbinden.md
       - Ziele mit Verantwortlichen verbinden: Leistungsmerkmal-Ziele-mit-Verantwortlichen-verbinden.md
