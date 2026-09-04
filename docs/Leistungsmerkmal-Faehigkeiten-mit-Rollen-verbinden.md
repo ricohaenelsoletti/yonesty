@@ -2,7 +2,7 @@
 
 
 <figure>
-    <img src="/screenshots/yonesty-x-Faehigkeiten-Rollen.png">
+    <img src="/screenshots/yonesty-x-Faehigkeiten-Personen-Rollen.png">
     <figcaption>Eine Rolle ist mehr als ein Titel. Sie beschreibt, was jemand können muss, um sie auszufüllen</figcaption>
 </figure>
 
