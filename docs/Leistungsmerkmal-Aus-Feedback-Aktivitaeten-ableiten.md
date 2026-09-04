@@ -1,5 +1,10 @@
 # Aus Feedback Aktivitäten ableiten
 
+<figure>
+    <img src="/screenshots/yonesty-x-Person-Feedback-Aktivitaet.png">
+    <figcaption>Feedback und Gespräche erzeugen Erkenntnis, aber Erkenntnis allein verändert nichts. Erst die abgeleitete Aktivität schließt die Lücke zwischen „Wissen" und „Tun".</figcaption>
+</figure>
+
 ## Warum aus Feedbacks & Gesprächen wirklich Aktivitäten ableiten?
 Das ist der entscheidende letzte Schritt und der, an dem die meisten Organisationen scheitern. Feedback und Gespräche erzeugen Erkenntnis, aber Erkenntnis allein verändert nichts. Erst die abgeleitete Aktivität schließt die Lücke zwischen „Wissen" und „Tun".
 
