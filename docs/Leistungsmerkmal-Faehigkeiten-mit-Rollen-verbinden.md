@@ -1,7 +1,7 @@
 # Leistungsmerkmal: Fähigkeiten mit Rollen verbinden
 
 <figure>
-    <img src="/screenshots/Faehigkeiten-Rollen-Matrix.png">
+    <img src="/screenshots/yonesty-Faehigkeiten-Rollen-Matrix.png">
     <figcaption>Die Hammer und Nagel GmbH Überblick aller notwendiger Fähigkeiten in den jeweiligen Rollen (Gefiltert)</figcaption>
 </figure>
 
