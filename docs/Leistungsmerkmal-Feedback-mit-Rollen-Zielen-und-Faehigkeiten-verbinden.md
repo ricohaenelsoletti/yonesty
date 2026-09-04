@@ -1,9 +1,12 @@
 # Feedback mit Rollen, Zielen und Fähigkeiten verbinden
 
+
+
 <figure>
-    <img src="/screenshots/yonesty-Feedbacks.png">
-    <figcaption>Feedback Übersicht für eine Führungskraft (Beispiel)</figcaption>
+    <img src="/screenshots/yonesty-x-Ziele-Rollen-Personen-Faehigkeiten-Feedback.png">
+    <figcaption>Das ist das Herzstück des Yonesty-Gedankens und „your next step with honesty"</figcaption>
 </figure>
+
 
 ## Warum Fähigkeiten mit Rollen verbinden?
 Das ist das Herzstück des Yonesty-Gedankens und „your next step with honesty". Hier die Logik dahinter.
@@ -27,6 +30,11 @@ Genau das ist der Kern: Eine Rolle ist kein statischer Titel, sondern ein Entwic
 2. wird sie ehrlich. Ein Skill Gap ist keine Abwertung, sondern ein klarer, respektvoller Hinweis, woran noch zu arbeiten ist.
 3. entsteht Fairness. Beförderungen und Absagen beruhen auf transparenten Kriterien und
 4. behält der Mensch die Kontrolle. Er sieht selbst, was er tun kann, um seine Ziele zu erreichen.
+
+<figure>
+    <img src="/screenshots/yonesty-Feedbacks.png">
+    <figcaption>Feedback Übersicht für eine Führungskraft (Beispiel)</figcaption>
+</figure>
 
 ## Warum Feedback mit Rollen, Zielen UND Fähigkeiten verbinden?
 Feedback ist der Motor, der dieses ganze System in Bewegung hält. Isoliertes Feedback („Das war gut/schlecht") verpufft. Erst die Verknüpfung macht es wirksam:
