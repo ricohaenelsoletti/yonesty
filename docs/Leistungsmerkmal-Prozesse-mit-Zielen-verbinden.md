@@ -1,8 +1,10 @@
 # Leistungsmerkmal: Prozesse mit Zielen verbinden
 
+
+
 <figure>
     <img src="/screenshots/yonesty-Prozess-Ziele.png">
-    <figcaption>Prozesse können mit Zielen und konkreten KPIs verknüpft werden.</figcaption>
+    <figcaption>Erst wenn ein Prozess auf ein konkretes Ziel einzahlt, wird sein Sinn klar. </figcaption>
 </figure>
 
 
@@ -18,7 +20,13 @@ Prozesse ohne Ziel sind reine Beschäftigung. Erst wenn ein Prozess auf ein konk
 * Mitarbeitende verstehen, warum ihre Arbeit wichtig ist
 * Höhere Motivation und Engagement (Menschen wollen zu etwas Sinnvollem beitragen)
 * Die tägliche Arbeit wird mit der strategischen Vision verbunden
-  
+
+<figure>
+    <img src="/screenshots/yonesty-Prozess-Ziele.png">
+    <figcaption>Prozesse können mit Zielen und konkreten KPIs verknüpft werden.</figcaption>
+</figure>
+
+
 ### 2. Vermeidung von „Blindleistung"
 Ohne Verbindung zu Zielen besteht die Gefahr, dass Prozesse existieren, die:
 
