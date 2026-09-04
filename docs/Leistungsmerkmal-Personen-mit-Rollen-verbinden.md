@@ -1,8 +1,8 @@
 # Leistungsmerkmal: Personen mit Rollen verbinden
 
 <figure>
-    <img src="/screenshots/yonesty-Personen-Rollen-Matrix.png">
-    <figcaption>Die Hammer und Nagel GmbH Zuordnung von Personen und Rollen im Unternehmen</figcaption>
+    <img src="/screenshots/yonesty-Personen-Rollen.png">
+    <figcaption>Die Verbindung von Personen und Rollen in einer Organisation</figcaption>
 </figure>
 
 ## Was passiert da?
@@ -14,6 +14,11 @@ Parallel können wir in yonesty auch klassische Stellen/Funktionen abbilden. Das
 - Jede **Rolle** bündelt bestimmte **Skills** (Fähigkeiten) und Erwartungen.
 - Eine **Person (Account)** wird einer oder mehreren Rollen zugewiesen.
 - Über diese Verknüpfung lassen sich Rollen auch mit **Prozessen** und Verantwortlichkeiten (z. B. RACI) koppeln.
+
+<figure>
+    <img src="/screenshots/yonesty-Personen-Rollen-Matrix.png">
+    <figcaption>Die Hammer und Nagel GmbH Zuordnung von Personen und Rollen im Unternehmen</figcaption>
+</figure>
 
 ## Warum ist das wichtig?
 - **Klarheit statt Personenabhängigkeit:** Nicht „die Person X macht das", sondern „die Rolle Y ist zuständig". Das macht Organisationen robuster.
