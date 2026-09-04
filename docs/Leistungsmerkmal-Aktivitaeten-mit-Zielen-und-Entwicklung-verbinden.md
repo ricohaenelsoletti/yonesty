@@ -1,5 +1,10 @@
 # Leistungsmerkmal: Aktivitäten mit Zielen und Entwicklung verbinden
 
+<figure>
+    <img src="/screenshots/yonesty-Person-Ziele-Feedback-Aktivitaeten.png">
+    <figcaption>Damit jede Aktivität einen Zweck hat und nicht Selbstläufer wird.</figcaption>
+</figure>
+
 ## Warum Aktivitäten mit Zielen und Entwicklung verbinden?
 Damit jede Aktivität einen Zweck hat und nicht Selbstläufer wird.
 
