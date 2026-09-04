@@ -3,7 +3,7 @@
 
 
 <figure>
-    <img src="/screenshots/yonesty-Prozess-Ziele.png">
+    <img src="/screenshots/yonesty-Prozesse-Ziele.png">
     <figcaption>Erst wenn ein Prozess auf ein konkretes Ziel einzahlt, wird sein Sinn klar. </figcaption>
 </figure>
 
