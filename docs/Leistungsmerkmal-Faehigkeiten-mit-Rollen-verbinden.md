@@ -44,7 +44,8 @@ Jede Person verfügt über ein Profil **eigener Fähigkeiten** – jeweils mit e
 - Passung sichtbar machen: Wer bringt für welche Rolle die richtigen Fähigkeiten mit?
 - Grundlage für gezielte und ehrliche Entwicklung und Kapazitätsplanung.
 
-Lies weiter auf Kerngedanke-yonesty.md
+Erfahre mehr über den [Kerngedanken von yonesty](https://docs.yonesty.cloud/Kerngedanke-yonesty.md).
+
 
 
 ## Hands On Demo in der Hammer und Nagel GmbH
