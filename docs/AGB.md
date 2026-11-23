@@ -7,7 +7,7 @@
 
 ### 1.1 Geltungsbereich
 
-Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB“) gelten für alle Verträge, die zwischen der yonesty UG (haftungsbeschränkt) (nachfolgend „Anbieter“) und dem Kunden abgeschlossen werden. Abweichende Bedingungen des Kunden werden nicht anerkannt, es sei denn, der Anbieter stimmt ihrer Geltung ausdrücklich schriftlich zu.
+Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB“) gelten für alle Verträge, die zwischen der RH Beteiligungen UG, Anbieterin der Marke yonesty (nachfolgend „Anbieter“), und dem Kunden abgeschlossen werden. Abweichende Bedingungen des Kunden werden nicht anerkannt, es sei denn, der Anbieter stimmt ihrer Geltung ausdrücklich schriftlich zu.
 
 ### 1.2 Vertragsgegenstand
 
