@@ -28,6 +28,15 @@ Dadurch erhalten unterschiedliche Personen unterschiedliche Antworten, obwohl si
 
 Yona zeigt ausschließlich Informationen an, auf die die jeweilige Person Zugriff hat.
 
+## Wo steht Yona zur Verfügung?
+
+Yona ist auf zwei Wegen nutzbar:
+
+- **In der yonesty-Webanwendung:** direkt dort, wo Rollen, Prozesse, Ziele und Aktivitäten gepflegt werden.
+- **In Claude über MCP:** Über das Model Context Protocol (MCP) lässt sich Yona als Konnektor in Claude einbinden. So steht das Wissen aus yonesty auch dort zur Verfügung, wo im Alltag ohnehin mit KI gearbeitet wird.
+
+In beiden Fällen gilt: Yona sieht nur die Daten, die die Person auch in yonesty sieht. Wie die Einrichtung in Claude funktioniert, steht unter [Yona in Claude (MCP)](MCP.md).
+
 ## Anwendungsbeispiele
 
 ### Führungskraft
