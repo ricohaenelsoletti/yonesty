@@ -27,7 +27,7 @@ Der Kunde erhält ein einfaches, nicht übertragbares Nutzungsrecht an der Softw
 
 ### 1.6 Verfügbarkeit und Haftung
 
-Der Anbieter bemüht sich, eine Verfügbarkeit der Software von 90 % im Jahresmittel sicherzustellen. Bei unvermeidbaren technischen Störungen haftet der Anbieter lediglich im Rahmen der gesetzlichen Vorschriften und nur für Vorsatz und grobe Fahrlässigkeit.
+Der Anbieter bemüht sich, eine Verfügbarkeit der Software von 95 % im Jahresmittel sicherzustellen. Bei unvermeidbaren technischen Störungen haftet der Anbieter lediglich im Rahmen der gesetzlichen Vorschriften und nur für Vorsatz und grobe Fahrlässigkeit.
 
 ### 1.7 Datenschutz und Vertraulichkeit
 
